@@ -78,7 +78,7 @@ Full-featured shopping platform built under senior developer guidance.
 
 **Key Learnings:** Team collaboration, Firebase services, API integration, production-level code structure
 
-[📂 View Repository](https://github.com/phyowaikyaw-mobiledev/e_commerce.git) 
+[📂 View Repository](https://github.com/phyowaikyaw-mobiledev/e_commerce.git) [📖 Read Documentation](https://github.com/phyowaikyaw-mobiledev/e_commerce/blob/main/README.md)
 
 ---
 
