@@ -2,7 +2,7 @@
 
 **Junior Flutter Developer** | Building Mobile Apps with Passion & Purpose
 
-📍 Bangkok, Thailand 🇹🇭 | From Myanmar 🇲🇲  
+📍 Bangkok, Thailand | From Myanmar  
 📧 phyowaikyawdeveloper@gmail.com  
 🌐 Open to Remote & On-site Opportunities
 
@@ -98,7 +98,7 @@ Feature-rich note app with Google Keep-inspired UI and local database persistenc
 
 **Key Learnings:** Local database management, reactive programming with Streams, complex UI layouts
 
-[📂 View Repository](https://github.com/phyowaikyaw-mobiledev/pardon_diary-note.git) 
+[📂 View Repository](https://github.com/phyowaikyaw-mobiledev/pardon_diary-note.git)  [📖 Read Documentation](https://github.com/phyowaikyaw-mobiledev/pardon_diary-note/blob/main/README.md)
 
 ---
 
@@ -117,7 +117,7 @@ Modern music streaming app UI clone inspired by Spotify and Joox.
 
 **Key Learnings:** Modern UI design patterns, animations, Material Design 3 implementation
 
-[📂 View Repository](https://github.com/phyowaikyaw-mobiledev) 
+[📂 View Repository](https://github.com/phyowaikyaw-mobiledev)  [📖 Read Documentation](https://github.com/phyowaikyaw-mobiledev/music_app/blob/main/README.md)
 
 ---
 
@@ -136,7 +136,7 @@ Facebook-inspired social media app with modern design elements.
 
 **Key Learnings:** Complex UI composition, navigation patterns, phone integration
 
-[📂 View Repository](https://github.com/phyowaikyaw-mobiledev/social_media_ui_clone.git) 
+[📂 View Repository](https://github.com/phyowaikyaw-mobiledev/social_media_ui_clone.git)  [📖 Read Documentation](https://github.com/phyowaikyaw-mobiledev/social_media_ui_clone/blob/main/README.md) 
 
 ---
 
@@ -154,7 +154,7 @@ My first Flutter app with animations - interactive dice roller with smooth effec
 
 **Key Learnings:** Flutter animation fundamentals, StatefulWidget, async operations
 
-[📂 View Repository](https://github.com/phyowaikyaw-mobiledev/roll_dice_app.git) 
+[📂 View Repository](https://github.com/phyowaikyaw-mobiledev/roll_dice_app.git)  [📖 Read Documentation](https://github.com/phyowaikyaw-mobiledev/roll_dice_app/blob/main/README.md)
 
 ---
 
