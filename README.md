@@ -78,8 +78,7 @@ Full-featured shopping platform built under senior developer guidance.
 
 **Key Learnings:** Team collaboration, Firebase services, API integration, production-level code structure
 
-[📂 View Repository](https://github.com/phyowaikyaw-mobiledev/ecommerce-app) | [📖 Read Documentation](https://github.com/phyowaikyaw-mobiledev/ecommerce-app#readme)
-
+[📂 View Repository](https://github.com/phyowaikyaw-mobiledev/e_commerce.git) 
 ---
 
 ### 📝 Pardon Diary - Note Taking App
@@ -98,7 +97,7 @@ Feature-rich note app with Google Keep-inspired UI and local database persistenc
 
 **Key Learnings:** Local database management, reactive programming with Streams, complex UI layouts
 
-[📂 View Repository](https://github.com/phyowaikyaw-mobiledev/pardon-diary) | [📸 Screenshots](https://github.com/phyowaikyaw-mobiledev/pardon-diary#screenshots)
+[📂 View Repository](https://github.com/phyowaikyaw-mobiledev/pardon_diary-note.git) 
 
 ---
 
@@ -117,7 +116,7 @@ Modern music streaming app UI clone inspired by Spotify and Joox.
 
 **Key Learnings:** Modern UI design patterns, animations, Material Design 3 implementation
 
-[📂 View Repository](https://github.com/phyowaikyaw-mobiledev/music-app)
+[📂 View Repository](https://github.com/phyowaikyaw-mobiledev) 
 
 ---
 
@@ -136,7 +135,7 @@ Facebook-inspired social media app with modern design elements.
 
 **Key Learnings:** Complex UI composition, navigation patterns, phone integration
 
-[📂 View Repository](https://github.com/phyowaikyaw-mobiledev/social_media_ui_clone)
+[📂 View Repository](https://github.com/phyowaikyaw-mobiledev/social_media_ui_clone.git) 
 
 ---
 
@@ -154,7 +153,7 @@ My first Flutter app with animations - interactive dice roller with smooth effec
 
 **Key Learnings:** Flutter animation fundamentals, StatefulWidget, async operations
 
-[📂 View Repository](https://github.com/phyowaikyaw-mobiledev/dice-roller-app)
+[📂 View Repository](https://github.com/phyowaikyaw-mobiledev/roll_dice_app.git) 
 
 ---
 
