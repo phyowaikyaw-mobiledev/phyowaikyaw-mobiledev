@@ -207,7 +207,7 @@ My first Flutter app with animations - interactive dice roller with smooth effec
 ## 💼 Professional Experience
 
 ### Junior Flutter Developer (Mentorship)
-**Current Project** | Bangkok, Thailand | 2023 - Present
+**Current Project** | Bangkok, Thailand | 2024 - Present
 
 - Collaborating with senior developers on production e-commerce application
 - Implementing UI screens based on Figma designs and specifications
@@ -234,7 +234,7 @@ My first Flutter app with animations - interactive dice roller with smooth effec
 
 ## 🌱 Learning Journey
 
-### Current Focus (2023 - Present)
+### Current Focus (2024 - Present)
 ```text
 Flutter/Dart         ████████████████░░░░  75%  Mobile + Web
 Firebase             ███████░░░░░░░░░░░░░  35%  Backend services
@@ -357,7 +357,7 @@ I'm actively seeking **Junior Flutter Developer** positions and would love to di
 
 ---
 
-## 📅 2024-2025 Goals
+## 📅 2025 Goals
 
 - [ ] Land first professional Junior Flutter Developer role
 - [ ] Complete and publish e-commerce app to Play Store
