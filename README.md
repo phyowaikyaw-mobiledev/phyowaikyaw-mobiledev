@@ -62,6 +62,30 @@ I'm a motivated Junior Flutter Developer with hands-on experience in building pr
 
 ## 📱 Portfolio Projects
 
+### 🌐 Learners Gateway - Blog Platform (Flutter Web)
+**Status:** 🚧 In Development (65% Complete) | **Live:** [learners-gateway.web.app](https://learners-gateway.web.app/)
+
+Modern, responsive blog platform built with Flutter Web & Firebase for my tech education community.
+
+**Tech Stack:** Flutter Web • Firebase Auth • Cloud Firestore • Provider • go_router  
+**Features:**
+- Blog system with post listing & filtering by category
+- Admin dashboard for creating, editing, and deleting posts
+- Real-time updates with Firestore streams
+- Responsive design (mobile & desktop)
+- Admin authentication with security rules
+- Comment system with likes functionality
+- Input validation & XSS prevention
+- Clean URL routing with go_router
+
+**Key Learnings:** Flutter web development, Firebase security rules, state management with Provider, responsive web design, authentication systems
+
+**Learning Transparency:** This is my first Flutter web project. I'm learning web security, Firebase integration, and web development patterns with AI assistance and official documentation.
+
+[📂 View Repository](https://github.com/phyowaikyaw-mobiledev/learners_gateway_website) | [🌐 Live Demo](https://learners-gateway.web.app/) | [📖 Read Documentation](https://github.com/phyowaikyaw-mobiledev/learners_gateway_website/blob/main/README.md)
+
+---
+
 ### 🛒 E-Commerce Mobile App (Production-Level)
 **Status:** 🚧 Ongoing | **Mentorship Project**
 
@@ -78,7 +102,7 @@ Full-featured shopping platform built under senior developer guidance.
 
 **Key Learnings:** Team collaboration, Firebase services, API integration, production-level code structure
 
-[📂 View Repository](https://github.com/phyowaikyaw-mobiledev/e_commerce.git) [📖 Read Documentation](https://github.com/phyowaikyaw-mobiledev/e_commerce/blob/main/README.md)
+[📂 View Repository](https://github.com/phyowaikyaw-mobiledev/e_commerce.git) | [📖 Read Documentation](https://github.com/phyowaikyaw-mobiledev/e_commerce/blob/main/README.md)
 
 ---
 
@@ -98,7 +122,7 @@ Feature-rich note app with Google Keep-inspired UI and local database persistenc
 
 **Key Learnings:** Local database management, reactive programming with Streams, complex UI layouts
 
-[📂 View Repository](https://github.com/phyowaikyaw-mobiledev/pardon_diary-note.git)  [📖 Read Documentation](https://github.com/phyowaikyaw-mobiledev/pardon_diary-note/blob/main/README.md)
+[📂 View Repository](https://github.com/phyowaikyaw-mobiledev/pardon_diary-note.git) | [📖 Read Documentation](https://github.com/phyowaikyaw-mobiledev/pardon_diary-note/blob/main/README.md)
 
 ---
 
@@ -117,7 +141,7 @@ Modern music streaming app UI clone inspired by Spotify and Joox.
 
 **Key Learnings:** Modern UI design patterns, animations, Material Design 3 implementation
 
-[📂 View Repository](https://github.com/phyowaikyaw-mobiledev)  [📖 Read Documentation](https://github.com/phyowaikyaw-mobiledev/music_app/blob/main/README.md)
+[📂 View Repository](https://github.com/phyowaikyaw-mobiledev/music_app) | [📖 Read Documentation](https://github.com/phyowaikyaw-mobiledev/music_app/blob/main/README.md)
 
 ---
 
@@ -136,7 +160,7 @@ Facebook-inspired social media app with modern design elements.
 
 **Key Learnings:** Complex UI composition, navigation patterns, phone integration
 
-[📂 View Repository](https://github.com/phyowaikyaw-mobiledev/social_media_ui_clone.git)  [📖 Read Documentation](https://github.com/phyowaikyaw-mobiledev/social_media_ui_clone/blob/main/README.md) 
+[📂 View Repository](https://github.com/phyowaikyaw-mobiledev/social_media_ui_clone.git) | [📖 Read Documentation](https://github.com/phyowaikyaw-mobiledev/social_media_ui_clone/blob/main/README.md) 
 
 ---
 
@@ -154,7 +178,7 @@ My first Flutter app with animations - interactive dice roller with smooth effec
 
 **Key Learnings:** Flutter animation fundamentals, StatefulWidget, async operations
 
-[📂 View Repository](https://github.com/phyowaikyaw-mobiledev/roll_dice_app.git)  [📖 Read Documentation](https://github.com/phyowaikyaw-mobiledev/roll_dice_app/blob/main/README.md)
+[📂 View Repository](https://github.com/phyowaikyaw-mobiledev/roll_dice_app.git) | [📖 Read Documentation](https://github.com/phyowaikyaw-mobiledev/roll_dice_app/blob/main/README.md)
 
 ---
 
@@ -173,10 +197,10 @@ My first Flutter app with animations - interactive dice roller with smooth effec
 </div>
 
 ### 📈 Activity Overview
-- 💻 **46 contributions** since May 2023
-- 🔥 **4-day current streak** (Active developer!)
-- 📦 **5+ completed projects** in portfolio
-- ⭐ Consistent learner with regular commits
+- 💻 **46+ contributions** since May 2023
+- 🔥 **Active developer** with consistent commits
+- 📦 **6+ completed projects** in portfolio (Mobile + Web)
+- ⭐ Consistent learner with regular updates
 
 ---
 
@@ -212,7 +236,7 @@ My first Flutter app with animations - interactive dice roller with smooth effec
 
 ### Current Focus (2023 - Present)
 ```text
-Flutter/Dart         ████████████████░░░░  75%  Primary focus
+Flutter/Dart         ████████████████░░░░  75%  Mobile + Web
 Firebase             ███████░░░░░░░░░░░░░  35%  Backend services
 State Management     █████████░░░░░░░░░░░  45%  BLoC, Provider, GetX
 Testing              █████░░░░░░░░░░░░░░░  25%  Unit & Widget tests
@@ -225,6 +249,8 @@ Testing              █████░░░░░░░░░░░░░░�
 - ✅ Clean Architecture in Flutter
 - ✅ Firebase advanced features
 - ✅ API integration best practices
+- ✅ Flutter Web development
+- ✅ Web security concepts
 
 **Next on List:**
 - 🎯 Riverpod for state management
@@ -250,6 +276,7 @@ Testing              █████░░░░░░░░░░░░░░�
 ✅ **API Integration** - REST API consumption, error handling, data parsing  
 ✅ **Database Skills** - Realm, Firestore, SQLite for offline-first apps  
 ✅ **Git Proficiency** - Version control, branching, pull requests  
+✅ **Flutter Web** - Building responsive web applications with Flutter
 
 ### Soft Skills
 ✅ **Quick Learner** - Able to adapt to new technologies and tools rapidly  
@@ -258,6 +285,7 @@ Testing              █████░░░░░░░░░░░░░░�
 ✅ **Self-Motivated** - Consistent commits and self-directed learning  
 ✅ **Clear Communicator** - Good documentation and code commenting practices  
 ✅ **Quality Focused** - Attention to detail from QA background  
+✅ **Learning in Public** - Transparent about learning journey and growth
 
 ### Why Junior Role?
 I'm seeking a junior position where I can:
@@ -275,6 +303,7 @@ I'm seeking a junior position where I can:
 - **YouTube:** Flutter Official Channel, Reso Coder, The Net Ninja
 - **Courses:** Udemy Flutter Bootcamp, Firebase Course
 - **Community:** Flutter Community on Medium, Stack Overflow
+- **AI Tools:** ChatGPT, Claude for learning complex concepts
 - **Podcasts:** FlutterDev Podcast, Boring Flutter Show
 
 ---
@@ -289,6 +318,7 @@ I'm seeking a junior position where I can:
 - 🔄 Embrace feedback and continuous improvement
 - 📚 Never stop learning and staying updated
 - 🤝 Collaboration and knowledge sharing
+- 🌐 Learning in public - transparent about my journey
 
 ---
 
@@ -305,22 +335,25 @@ I'm actively seeking **Junior Flutter Developer** positions and would love to di
 **Contact Me:**
 
 📧 **Email:** [phyowaikyawdeveloper@gmail.com](mailto:phyowaikyawdeveloper@gmail.com)  
-💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/phyowaikyaw-dev) *(Update your LinkedIn URL)*  
+💼 **LinkedIn:** [linkedin.com/in/developer-phyowaikyaw-872aa81a7](https://linkedin.com/in/developer-phyowaikyaw-872aa81a7/)  
 🐙 **GitHub:** [@phyowaikyaw-mobiledev](https://github.com/phyowaikyaw-mobiledev)  
 📘 **Community:** [Learners Gateway](https://facebook.com/learnersgateway30) - My tech education community  
+🌐 **Portfolio:** [learners-gateway.web.app](https://learners-gateway.web.app/)  
 📱 **Location:** Bangkok, Thailand (Open to relocation)
 
 ---
 
 ## 🎖️ Achievements & Milestones
 
-- ✅ Built 5+ complete Flutter applications
+- ✅ Built 6+ complete Flutter applications (Mobile + Web)
+- ✅ Deployed live Flutter web application
 - ✅ Integrated Firebase in production app
 - ✅ Worked with senior developer on real project
 - ✅ Consistent GitHub contributions (46+ commits)
 - ✅ Created tech education community (Learners Gateway)
 - ✅ Transitioned successfully from QA to Development
 - ✅ Learning and applying industry best practices
+- ✅ Building in public - sharing learning journey
 
 ---
 
@@ -334,20 +367,21 @@ I'm actively seeking **Junior Flutter Developer** positions and would love to di
 - [ ] Contribute to Flutter open-source packages
 - [ ] Attend Flutter conferences/meetups in Thailand
 - [ ] Start technical blogging about Flutter
+- [x] Launch Learners Gateway web platform (In Progress - 65%)
 
 ---
 
 <div align="center">
 
-### 💙 Built with Flutter | 🚀 Powered by Passion
+### 💙 Built with Flutter | 🔥 Powered by Firebase | 🚀 Driven by Passion
 
-**"From QA to Dev - Learning, Building, Growing"**
+**"From QA to Dev - Learning, Building, Growing in Public"**
 
 ⭐️ **If you find my projects helpful, please consider giving them a star!** ⭐️
 
 ---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=02569B&center=true&vCenter=true&width=435&lines=Junior+Flutter+Developer;Always+Learning+%26+Growing;Building+Mobile+Apps;Open+to+Opportunities!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=02569B&center=true&vCenter=true&width=435&lines=Junior+Flutter+Developer;Mobile+%26+Web+Development;Always+Learning+%26+Growing;Building+Meaningful+Apps;Open+to+Opportunities!)
 
 **Thank you for visiting! Let's build something amazing together! 🚀**
 
