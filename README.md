@@ -11,8 +11,6 @@
 
 💼 LinkedIn: [Developer - Phyo Wai Kyaw](www.linkedin.com/in/phyowaikyaw-dev)
 
----
-
 ## 🚀 About Me
 
 I'm a motivated Junior Flutter Developer with hands-on experience in building production-level mobile applications under professional mentorship. I bring a unique perspective from my background in Quality Assurance, which helps me write cleaner, more maintainable code with strong attention to detail.
