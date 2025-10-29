@@ -337,10 +337,10 @@ I'm actively seeking **Junior Flutter Developer** positions and would love to di
 **Contact Me:**
 
 📧 **Email:** [phyowaikyawdeveloper@gmail.com](mailto:phyowaikyawdeveloper@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/developer-phyowaikyaw-872aa81a7](https://linkedin.com/in/developer-phyowaikyaw-872aa81a7/)  
+💼 **LinkedIn:** [Developer - Phyo Wai Kyaw](https://www.linkedin.com/in/phyowaikyaw-dev)  
 🐙 **GitHub:** [@phyowaikyaw-mobiledev](https://github.com/phyowaikyaw-mobiledev)  
 📘 **Community:** [Learners Gateway](https://facebook.com/learnersgateway30) - My tech education community  
-🌐 **Portfolio:** [learners-gateway.web.app](https://learners-gateway.web.app/)  
+🌐 **Portfolio:** [Portfolio Website](https://flutter-developer-portfolio-phi.vercel.app)  
 📱 **Location:** Bangkok, Thailand (Open to relocation)
 
 ---
