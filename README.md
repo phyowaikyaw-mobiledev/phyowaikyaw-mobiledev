@@ -4,7 +4,6 @@
 
 📍 Bangkok, Thailand | From Myanmar
 
-## 🔗 Connect with me
 📧 Email: phyowaikyawdeveloper@gmail.com
 
 🌐 Portfolio: [Portfolio Website](https://flutter-developer-portfolio-phi.vercel.app)
