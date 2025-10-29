@@ -8,7 +8,7 @@
 
 🌐 Portfolio: [Portfolio Website](https://flutter-developer-portfolio-phi.vercel.app)
 
-💼 LinkedIn: [Developer - Phyo Wai Kyaw](www.linkedin.com/in/phyowaikyaw-dev)
+💼 LinkedIn: [Developer - Phyo Wai Kyaw](https://www.linkedin.com/in/phyowaikyaw-dev)
 
 ## 🚀 About Me
 
