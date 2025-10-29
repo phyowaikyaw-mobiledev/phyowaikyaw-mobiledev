@@ -2,9 +2,12 @@
 
 **Junior Flutter Developer** | Building Mobile Apps with Passion & Purpose
 
-📍 Bangkok, Thailand | From Myanmar  
-📧 phyowaikyawdeveloper@gmail.com  
-🌐 Open to Remote & On-site Opportunities
+📍 Bangkok, Thailand | From Myanmar
+
+## 🔗 Connect with me
+📧 Email: phyowaikyawdeveloper@gmail.com
+🌐 Portfolio: [yourwebsite.com](https://flutter-developer-portfolio-phi.vercel.app)
+💼 LinkedIn: [Developer - Phyo Wai Kyaw](www.linkedin.com/in/phyowaikyaw-dev)
 
 ---
 
