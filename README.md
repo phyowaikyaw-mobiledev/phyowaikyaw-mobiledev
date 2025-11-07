@@ -192,8 +192,6 @@ My first Flutter app with animations - interactive dice roller with smooth effec
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phyowaikyaw-mobiledev&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phyowaikyaw-mobiledev&layout=compact&theme=radical&hide_border=true&langs_count=6)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=phyowaikyaw-mobiledev&style=for-the-badge&color=blueviolet)
 
 </div>
