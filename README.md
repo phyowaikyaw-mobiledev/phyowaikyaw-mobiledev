@@ -18,7 +18,7 @@
 
 Motivated Flutter Developer with strong foundation in mobile application development, currently completing intensive mentorship program with senior Flutter developer. Demonstrated ability to build production-ready applications using Flutter, Dart, Firebase, and modern state management solutions.
 
-**🏆 Achievement:** 1st Place Winner - Oway Travel Hackathon 2020
+**🏆 Achievement:** 1st Place Winner - Oway Travel Hackathon 2020 Mandalay. Organizer : Phandeeyar Foundation.
 
 ## 🛠️ Technical Skills
 
