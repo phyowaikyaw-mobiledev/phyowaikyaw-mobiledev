@@ -113,15 +113,19 @@ Founded and manage technical education community focused on Flutter development,
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phyowaikyaw-mobiledev&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<!-- GitHub Streak Stats - This usually works -->
+<a href="https://github.com/phyowaikyaw-mobiledev">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phyowaikyaw-mobiledev&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phyowaikyaw-mobiledev&layout=compact&theme=radical&hide_border=true&langs_count=6)
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=phyowaikyaw-mobiledev&color=blueviolet" alt="Profile Views" />
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=phyowaikyaw-mobiledev&theme=radical&hide_border=true)
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=phyowaikyaw-mobiledev&color=blueviolet)
+**📈 50+ Contributions** • **🚀 6 Flutter Projects** • **💻 Active Developer**
+
 </div>
-
 ## 📫 Let's Connect!
 
 I'm actively seeking **Junior Flutter Developer** opportunities and would love to discuss how I can contribute to your team.
