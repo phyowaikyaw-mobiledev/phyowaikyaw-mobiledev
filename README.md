@@ -1,6 +1,6 @@
 # Phyo Wai Kyaw  
 **Flutter Developer** | Building Production-Ready Mobile & Web Applications  
-📍 Chonburi, Thailand | 🇲🇲 From Myanmar
+📍 Chonburi, Thailand | From Myanmar
 
 <div align="center">
 
@@ -97,7 +97,7 @@ Results-driven Flutter Developer with expertise in building scalable cross-platf
 
 ## 🏆 Awards & Recognition
 
-### **🥇 1st Place - Oway Travel Hackathon 2020**
+### **🥇 1st Place - Oway Travel Hackathon 2020 Mandalay**
 *Organized by Phandeeyar Foundation | Mandalay, Myanmar*
 
 - **Achievement:** Top performer among 20+ competing teams
@@ -119,7 +119,7 @@ Results-driven Flutter Developer with expertise in building scalable cross-platf
 
 <div align="center">
 
-**🚀 6 Production Projects** • **💻 100+ Contributions** • **⭐ Active Maintainer**
+**🚀 6 Projects** • **💻 100+ Contributions** • **⭐ Active Maintainer**
 
 <a href="https://github.com/phyowaikyaw-mobiledev">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=phyowaikyaw-mobiledev&theme=radical&hide_border=true" alt="GitHub Streak" />
