@@ -18,7 +18,7 @@
 
 Motivated Flutter Developer with strong foundation in mobile application development, currently completing intensive mentorship program with senior Flutter developer. Demonstrated ability to build production-ready applications using Flutter, Dart, Firebase, and modern state management solutions.
 
-**🏆 Achievement:** 1st Place Winner - Oway Travel Hackathon 2020 Mandalay. Organizer : Phandeeyar Foundation.
+**🏆 Achievement:** 1st Place Winner - Oway Travel Hackathon 2020 Mandalay. 
 
 ## 🛠️ Technical Skills
 
@@ -97,8 +97,8 @@ Computer University, Mandalay (Myanmar) | *2018 - 2021 (2 Years Completed)*
 
 ## 🏆 Awards & Achievements
 
-**🏆 1st Place Winner - Oway Travel Hackathon 2020**  
-Organized by Oway Group | Mandalay, Myanmar  
+**🏆 1st Place Winner - Oway Travel Hackathon 2020 Mandalay**  
+Organized by Phandeeyar Foundation Group | Mandalay, Myanmar  
 - Awarded $1000 AWS Cloud Credits
 - Developed functional travel application prototype under strict time constraints
 - Demonstrated teamwork, problem-solving, and presentation skills
@@ -113,12 +113,13 @@ Founded and manage technical education community focused on Flutter development,
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phyowaikyaw-mobiledev&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phyowaikyaw-mobiledev&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phyowaikyaw-mobiledev&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phyowaikyaw-mobiledev&layout=compact&theme=radical&hide_border=true&langs_count=6)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=phyowaikyaw-mobiledev&theme=radical&hide_border=true)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=phyowaikyaw-mobiledev&color=blueviolet)
-
 </div>
 
 ## 📫 Let's Connect!
