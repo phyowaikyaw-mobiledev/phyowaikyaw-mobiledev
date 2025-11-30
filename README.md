@@ -118,12 +118,13 @@ Founded and manage technical education community focused on Flutter development,
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=phyowaikyaw-mobiledev&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" />
 </a>
 
+
 <!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=phyowaikyaw-mobiledev&color=blueviolet" alt="Profile Views" />
 
 <br/>
 
-**📈 50+ Contributions** • **🚀 6 Flutter Projects** • **💻 Active Developer**
+**📈 100+ Contributions** • **🚀 6 Flutter Projects** • **💻 Active Developer**
 
 </div>
 ## 📫 Let's Connect!
