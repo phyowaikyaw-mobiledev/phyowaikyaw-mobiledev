@@ -121,15 +121,6 @@ Results-driven Flutter Developer with expertise in building scalable cross-platf
 
 **🚀 6+ Projects** • **💻 100+ Contributions** • **⭐ Active Maintainer**
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=phyowaikyaw-mobiledev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
-
-<!-- Top Languages - Customized for Flutter -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phyowaikyaw-mobiledev&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=learners_gateway_website&hide=html,css,javascript" alt="Top Languages" width="41%" />
-
-<br/>
-
-
 <a href="https://github.com/phyowaikyaw-mobiledev">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=phyowaikyaw-mobiledev&theme=radical&hide_border=true" alt="GitHub Streak" />
 </a>
