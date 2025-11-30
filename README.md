@@ -1,6 +1,6 @@
 # Phyo Wai Kyaw  
 **Junior Flutter Developer**  
-📍 Chonburi, Thailand | 🇲🇲 From Myanmar
+📍 Chonburi, Thailand | From Myanmar
 
 <div align="center">
 
