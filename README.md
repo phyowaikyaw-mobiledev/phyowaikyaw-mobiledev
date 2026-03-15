@@ -94,33 +94,52 @@ class PhyoWaiKyaw extends FlutterDeveloper {
 ---
 
 ## 🚀 Production Apps
-
+ 
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>📱 Phone King Plus</h3>
+      <h3>📱 Phone King Plus — Customer</h3>
       <p>Loyalty rewards platform — earn points, track rewards & redeem exclusive offers</p>
       <p>
-        <img src="https://apps.apple.com/th/app/phoneking-plus/id6757488887?style=flat-square&logo=google-play&logoColor=white" />
-        <img src="https://play.google.com/store/apps/details?id=asia.rootstudio.phone_king_customer?style=flat-square&logo=app-store&logoColor=white" />
+        <a href="https://play.google.com/store/apps/details?id=asia.rootstudio.phone_king_customer">
+          <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" />
+        </a>
+        <a href="https://apps.apple.com/th/app/phoneking-plus/id6757488887">
+          <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" />
+        </a>
       </p>
       <p><code>Flutter</code> <code>REST API</code> <code>UI Contributor</code></p>
     </td>
+    <td align="center" width="50%">
+      <h3>⚙️ Phone King Plus — Admin</h3>
+      <p>Admin panel for managing the loyalty platform — stores, rewards & users</p>
+      <p>
+        <a href="ADMIN_PLAY_STORE_LINK">
+          <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" />
+        </a>
+        <a href="ADMIN_APP_STORE_LINK">
+          <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" />
+        </a>
+      </p>
+      <p><code>Flutter</code> <code>REST API</code> <code>UI Contributor</code></p>
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <h3>🏥 DrZon Healthcare</h3>
       <p>Healthcare app connecting patients with medical services in Myanmar & Thailand</p>
       <p><img src="https://img.shields.io/badge/Launching_Soon-2EA043?style=flat-square" /></p>
       <p><code>Flutter</code> <code>Dio</code> <code>Clean Architecture</code> <code>l10n</code></p>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
       <h3>🛍️ Pan Customer App</h3>
       <p>Cross-platform production application @ Root Studio Asia</p>
       <p><img src="https://img.shields.io/badge/Launching_Soon-2EA043?style=flat-square" /></p>
       <p><code>Flutter</code> <code>REST API</code> <code>Clean Architecture</code></p>
     </td>
-    <td align="center" width="50%">
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
       <h3>🌐 Learners Gateway</h3>
       <p>Live Flutter Web blog platform for tech education community</p>
       <p>
