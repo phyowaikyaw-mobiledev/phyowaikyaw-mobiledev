@@ -1,157 +1,226 @@
-# Phyo Wai Kyaw  
-**Flutter Developer** | Building Production-Ready Mobile & Web Applications  
-📍 Chonburi, Thailand | From Myanmar
+<div align="center">
+
+<!-- Replace with your banner image after creating in Canva -->
+<!-- <img src="./banner.png" width="100%" alt="Phyo Wai Kyaw Banner"/> -->
+
+# 👋 Hi, I'm Phyo Wai Kyaw
+
+### 📱 Flutter Developer · Building Production-Ready Apps for Real Users
+### 📍 Chonburi, Thailand · From Myanmar
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0A0E27?style=for-the-badge)](https://flutter-developer-portfolio-phi.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phyowaikyaw-dev)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phyowalkyawdeveloper@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phyowaikyaw-mobiledev)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```dart
+class PhyoWaiKyaw extends FlutterDeveloper {
+  
+  final String company     = "Root Studio Asia";
+  final String location    = "Chonburi, Thailand 🇹🇭 · From Myanmar 🇲🇲";
+  final String focus       = "Production-grade mobile & web apps";
+  
+  final List<String> currentWork = [
+    "🏥 DrZon Healthcare App",
+    "🛍️ Pan Customer App",
+  ];
+
+  final String achievement = "🏆 1st Place · Oway Travel Hackathon 2020";
+  final bool   openToWork  = true;
+  
+}
+```
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Dio](https://img.shields.io/badge/Dio-02569B?style=for-the-badge&logo=dart&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-13B9FD?style=for-the-badge&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://flutter-developer-portfolio-phi.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phyowaikyaw-dev)
-[![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phyowalkyawdeveloper@gmail.com)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
-## 👨‍💻 Professional Summary
+<details>
+<summary>📦 More Stack Details</summary>
+<br/>
 
-Results-driven Flutter Developer with expertise in building scalable cross-platform applications. Currently advancing skills through intensive mentorship, focusing on production-level development with Flutter, Dart, and Firebase. Proven ability to deliver high-quality mobile and web applications with strong emphasis on clean architecture and optimal user experience.
+| Category | Technologies |
+|----------|-------------|
+| **Mobile** | Flutter, Dart, Material Design 3, Responsive UI |
+| **State Management** | GetX, BLoC/Cubit, Provider, Riverpod |
+| **Backend & API** | Firebase, REST API, Dio, JSON |
+| **Database** | Firestore, Hive, SQLite, Realm DB |
+| **Architecture** | Clean Architecture, MVC, Repository Pattern |
+| **Tools** | Git, Postman, Android Studio, VS Code, Figma |
 
-**🏆 Notable Achievement:** 1st Place Winner - Oway Travel Hackathon 2020 | Phandeeyar Foundation
+</details>
 
-## 🛠️ Technical Expertise
+---
 
-### **Core Technologies**
-- **Frontend:** Flutter, Dart, Material Design 3, Responsive UI
-- **Backend:** Firebase (Auth, Firestore, Cloud Storage, Hosting), REST APIs
-- **State Management:** GetX, BLoC, Provider, Riverpod
-- **Database:** Cloud Firestore, Hive, SQLite, Realm DB
-- **Tools & DevOps:** Git, GitHub, Android Studio, VS Code, Postman, Figma
+## 💼 Work Experience
 
-### **Architecture & Methodology**
-- MVC & Clean Architecture Patterns
-- Repository Pattern Implementation
-- Agile Development Practices
-- Code Review Participation
-- Responsive Design Principles
+### 🏢 Flutter Developer — Root Studio Asia
+**2025 – Present** · Yangon, Myanmar (Remote)
 
-## 🚀 Portfolio Highlights
+> Building production mobile applications used by real users
 
-### 🛒 **E-Commerce Mobile Application** 
-*Production-Level Project | [View Code](https://github.com/phyowaikyaw-mobiledev/e_commerce)*
-- Developed under senior developer mentorship with production standards
-- Integrated comprehensive Firebase services (Auth, Firestore, Cloud Messaging)
-- Implemented shopping cart with real-time state management
-- Built responsive UI following Material Design 3 guidelines
+- 🏥 Developing **DrZon Healthcare App** — notification system, REST API integration with Dio
+- 🛍️ Developing **Pan Customer App** — cross-platform production application
+- 🏗️ Implementing Clean Architecture with repository pattern & l10n localization
+- 👥 Participating in code reviews & Agile workflow with senior developer
+- 📱 Contributed UI components to **Phone King Plus** — published loyalty rewards app
 
-### 🌐 **Learners Gateway Platform**
-*Live Production | [Live Demo](https://learners-gateway.web.app) | [View Code](https://github.com/phyowaikyaw-mobiledev/learners_gateway_website)*
-- Deployed Flutter Web application serving tech education community
-- Implemented real-time content management system with admin dashboard
-- Configured Firebase security rules and authentication workflows
-- Achieved 65% development completion with continuous deployment
+---
 
-### 🎓 **EduHub LMS**
-*Enterprise Learning System | [View Code](https://github.com/phyowaikyaw-mobiledev/eduhub_lms)*
-- Architected dual-role system (Student/Teacher) with role-based access
-- Implemented offline functionality using Hive for local data persistence
-- Developed course management with progress tracking features
-- Utilized BLoC (Cubit) for predictable state management
+## 🚀 Production Apps
 
-### 📱 **Additional Projects**
-- **Pardon Diary:** Note-taking app with Realm database & real-time updates
-- **Ying Music:** Music streaming UI with custom animations and gradients
-- **SocialHub:** Social media interface with complex UI components
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>📱 Phone King Plus</h3>
+      <p>Loyalty rewards platform — earn points, track rewards & redeem exclusive offers</p>
+      <p>
+        <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" />
+        <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" />
+      </p>
+      <p><code>Flutter</code> <code>REST API</code> <code>UI Contributor</code></p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🏥 DrZon Healthcare</h3>
+      <p>Healthcare app connecting patients with medical services in Myanmar & Thailand</p>
+      <p><img src="https://img.shields.io/badge/Launching_Soon-2EA043?style=flat-square" /></p>
+      <p><code>Flutter</code> <code>Dio</code> <code>Clean Architecture</code> <code>l10n</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🛍️ Pan Customer App</h3>
+      <p>Cross-platform production application @ Root Studio Asia</p>
+      <p><img src="https://img.shields.io/badge/Launching_Soon-2EA043?style=flat-square" /></p>
+      <p><code>Flutter</code> <code>REST API</code> <code>Clean Architecture</code></p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🌐 Learners Gateway</h3>
+      <p>Live Flutter Web blog platform for tech education community</p>
+      <p>
+        <a href="https://learners-gateway.web.app">
+          <img src="https://img.shields.io/badge/Live_Demo-4285F4?style=flat-square&logo=google-chrome&logoColor=white" />
+        </a>
+      </p>
+      <p><code>Flutter Web</code> <code>Firebase</code> <code>Provider</code></p>
+    </td>
+  </tr>
+</table>
 
-## 💼 Professional Experience
+---
 
-### Flutter Developer (Mentorship Program)
-**2024 - Present**
+## 🗂️ Personal Projects
 
-- Architecting and developing production-ready Flutter applications
-- Implementing advanced state management solutions (GetX, BLoC, Provider)
-- Conducting regular code reviews and applying best practices
-- Integrating RESTful APIs and Firebase backend services
-- Applying Clean Architecture principles in real-world projects
-- Collaborating with senior developers on feature implementation
+| # | Project | Description | Stack | Link |
+|---|---------|-------------|-------|------|
+| 🛒 | **E-Commerce App** | Full-featured shopping platform with Firebase | Flutter · Firebase · GetX | [Code](https://github.com/phyowaikyaw-mobiledev/e_commerce) |
+| 🎓 | **EduHub LMS** | Dual-role learning management system | Flutter · BLoC · Hive | [Code](https://github.com/phyowaikyaw-mobiledev/eduhub_lms) |
+| 📓 | **Pardon Diary** | Note-taking app with Realm DB | Flutter · Realm · Streams | [Code](https://github.com/phyowaikyaw-mobiledev/pardon_diary-note) |
+| 🎵 | **Ying Music** | Music streaming UI with animations | Flutter · Material Design 3 | [Code](https://github.com/phyowaikyaw-mobiledev/music_app) |
+| 👥 | **SocialHub** | Facebook-inspired social media UI | Flutter · Custom Widgets | [Code](https://github.com/phyowaikyaw-mobiledev/social_media_ui_clone) |
 
-**Key Contributions:**
-- Successfully deployed Flutter web application to production environment
-- Implemented efficient state management reducing app complexity
-- Developed reusable component library improving development speed
-- Maintained code quality through rigorous testing and documentation
+---
 
-## 🎓 Education & Certifications
-
-### **Formal Education**
-**Computer Science Major**  
-*Computer University, Mandalay* | 2018 - 2021 (2 Years Completed)
-
-### **Professional Development**
-- **Flutter & Dart - The Complete Guide** (Udemy - In Progress)
-- **Firebase for Flutter Development** (Official Documentation)
-- **Advanced Flutter Architecture** (Mentorship Program)
-- **Software Engineering Fundamentals** (KMD Education Center)
-
-## 🏆 Awards & Recognition
-
-### **🥇 1st Place - Oway Travel Hackathon 2020 Mandalay**
-*Organized by Phandeeyar Foundation | Mandalay, Myanmar*
-
-- **Achievement:** Top performer among 20+ competing teams
-- **Award:** $1,000 AWS Cloud Credits
-- **Project:** Developed functional travel application prototype under time constraints
-- **Skills Demonstrated:** Rapid prototyping, team collaboration, problem-solving, technical presentation
-
-## 🌐 Community Engagement
-
-### **Learners Gateway Initiative**
-*2024 – Present*
-
-- Founded and manage technical education community focused on Flutter development
-- Create and publish technical content explaining complex programming concepts
-- Foster learning environment for beginner and intermediate developers
-- Demonstrate commitment to knowledge sharing and community growth
-
-## 📊 Development Activity
+## 🏆 Award
 
 <div align="center">
 
-**🚀 6+ Projects** • **💻 100+ Contributions** • **⭐ Active Maintainer**
-
-<a href="https://github.com/phyowaikyaw-mobiledev">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phyowaikyaw-mobiledev&theme=radical&hide_border=true" alt="GitHub Streak" />
-</a>
-
-![Profile Views](https://komarev.com/ghpvc/?username=phyowaikyaw-mobiledev&color=blueviolet)
+```
+╔══════════════════════════════════════════════════════════╗
+║  🥇  1st Place — Oway Travel Hackathon 2020              ║
+║      Organized by Phandeeyar Foundation · Mandalay       ║
+║      🏅 $1,000 AWS Cloud Credits · 20+ competing teams   ║
+╚══════════════════════════════════════════════════════════╝
+```
 
 </div>
 
-## 🎯 Career Objectives
+---
 
-Seeking **Flutter Developer** positions where I can:
-- Contribute to meaningful projects with real user impact
-- Collaborate with experienced development teams
-- Continue professional growth through mentorship and challenges
-- Apply and expand technical skills in production environments
-- Participate in full software development lifecycle
+## 🎓 Education & Certifications
 
-## 📫 Professional Contact
+### 🏫 Education
 
-**📧 Email:** [phyowalkyawdeveloper@gmail.com](mailto:phyowalkyawdeveloper@gmail.com)  
-**💼 LinkedIn:** [Phyo Wai Kyaw](https://www.linkedin.com/in/phyowaikyaw-dev)  
-**🌐 Portfolio:** [Flutter Developer Portfolio](https://flutter-developer-portfolio-phi.vercel.app)  
-**📱 Mobile:** +66-8245-92006  
-**🐙 GitHub:** [@phyowaikyaw-mobiledev](https://github.com/phyowaikyaw-mobiledev)
+| Degree | Institution | Year |
+|--------|------------|------|
+| 🎓 Computer Science Major | Computer University, Mandalay | 2018 – 2021 |
+
+### 📜 Certifications — KMD Education Center
+
+| Certificate | Link |
+|-------------|------|
+| 💻 Software Engineering | [View Certificate](#) |
+| 🔧 Practical A+ Hardware & Networking | [View Certificate](#) |
+| 🌐 Information Technology | [View Certificate](#) |
+| 🧠 Problem Solving with Programming | [View Certificate](#) |
+| 📊 Microsoft PowerPoint (Advanced) | [View Certificate](#) |
+| 🌍 Website Basic | [View Certificate](#) |
+
+> 🔗 Replace `(#)` with your Google Drive share links
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=phyowaikyaw-mobiledev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phyowaikyaw-mobiledev&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=phyowaikyaw-mobiledev&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=phyowaikyaw-mobiledev&color=02569B&style=for-the-badge)
+
+</div>
+
+---
+
+## 🌐 Community
+
+### ✍️ Learners Gateway Initiative · 2024 – Present
+Building a Flutter development community — creating technical content, mentoring beginners, and sharing real-world experience.
+
+[![Learners Gateway](https://img.shields.io/badge/🌐_Visit_Community-4285F4?style=for-the-badge)](https://learners-gateway.web.app)
 
 ---
 
 <div align="center">
 
-### 💡 *"Transforming ideas into seamless digital experiences through clean code and user-centric design."*
+### 📬 Let's Connect
 
-**Available for new opportunities and technical collaborations!**
+**📧** phyowalkyawdeveloper@gmail.com &nbsp;|&nbsp; **📱** +66-8245-92006
+
+<br/>
+
+*"Building meaningful mobile experiences with clean code and purpose."*
+
+**⚡ Usually responds within 24 hours · Open to Flutter Developer roles & remote work!**
 
 </div>
