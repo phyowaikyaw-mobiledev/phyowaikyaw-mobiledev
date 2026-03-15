@@ -246,28 +246,6 @@ class PhyoWaiKyaw extends FlutterDeveloper {
 |-------------|------|
 | 🌍 Web Development Foundation (Html,Css,Bootstrap,JavaScript) | [View Certificate](https://drive.google.com/file/d/1FQP0YdhVloXF-LOdfdG3KFmZNqGTbCyH/view?usp=drive_link) |
 
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=phyowaikyaw-mobiledev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phyowaikyaw-mobiledev&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=phyowaikyaw-mobiledev&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=phyowaikyaw-mobiledev&color=02569B&style=for-the-badge)
-
-</div>
-
----
-
 ## 🌐 Community
 
 ### ✍️ Learners Gateway Initiative · 2024 – Present
@@ -288,5 +266,13 @@ Building Software development community — creating technical content, sharing 
 *"Building meaningful mobile experiences with clean code and purpose."*
 
 **⚡ Usually responds within 24 hours · Open to Flutter Developer roles & remote work!**
+
+✨ **Personal Motto**
+ 
+*"Crafting meaningful mobile experiences with precision, speed, and purpose."*
+ 
+<br/>
+ 
+Thanks for visiting! Feel free to reach out if you want to collaborate or build something impactful together. 🚀
 
 </div>
