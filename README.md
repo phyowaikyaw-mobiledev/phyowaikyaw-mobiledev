@@ -155,16 +155,42 @@ class PhyoWaiKyaw extends FlutterDeveloper {
 ---
 
 ## 🗂️ Personal Projects
-
-| # | Project | Description | Stack | Link |
-|---|---------|-------------|-------|------|
-| 🛒 | **E-Commerce App** | Full-featured shopping platform with Firebase | Flutter · Firebase · GetX | [Code](https://github.com/phyowaikyaw-mobiledev/e_commerce) |
-| 🎓 | **EduHub LMS** | Dual-role learning management system | Flutter · BLoC · Hive | [Code](https://github.com/phyowaikyaw-mobiledev/eduhub_lms) |
-| 📓 | **Pardon Diary** | Note-taking app with Realm DB | Flutter · Realm · Streams | [Code](https://github.com/phyowaikyaw-mobiledev/pardon_diary-note) |
-| 🎵 | **Ying Music** | Music streaming UI with animations | Flutter · Material Design 3 | [Code](https://github.com/phyowaikyaw-mobiledev/music_app) |
-| 👥 | **SocialHub** | Facebook-inspired social media UI | Flutter · Custom Widgets | [Code](https://github.com/phyowaikyaw-mobiledev/social_media_ui_clone) |
+ 
+#### 🛒 E-Commerce App
+> Full-featured shopping platform with cart, Firebase Auth & real-time state management
+ 
+`Flutter` `Firebase` `GetX` `Material Design 3` &nbsp;·&nbsp; [View Code →](https://github.com/phyowaikyaw-mobiledev/e_commerce)
+ 
+---
+ 
+#### 🎓 EduHub LMS
+> Dual-role learning management system (Student & Teacher) with offline support
+ 
+`Flutter` `BLoC/Cubit` `Hive` `Firebase` &nbsp;·&nbsp; [View Code →](https://github.com/phyowaikyaw-mobiledev/eduhub_lms)
+ 
+---
+ 
+#### 📓 Pardon Diary
+> Google Keep-inspired note app with real-time updates & full-text search
+ 
+`Flutter` `Realm DB` `Streams` `Material Design 3` &nbsp;·&nbsp; [View Code →](https://github.com/phyowaikyaw-mobiledev/pardon_diary-note)
+ 
+---
+ 
+#### 🎵 Ying Music
+> Music streaming UI clone with hero animations & smooth playback controls
+ 
+`Flutter` `Material Design 3` `Custom Animations` &nbsp;·&nbsp; [View Code →](https://github.com/phyowaikyaw-mobiledev/music_app)
+ 
+---
+ 
+#### 👥 SocialHub
+> Facebook-inspired social media UI with news feed & notification system
+ 
+`Flutter` `Custom Widgets` `Navigation` &nbsp;·&nbsp; [View Code →](https://github.com/phyowaikyaw-mobiledev/social_media_ui_clone)
 
 ---
+
 ## 🏆 Award
 
 <div align="center">
@@ -200,6 +226,9 @@ class PhyoWaiKyaw extends FlutterDeveloper {
 | Degree | Institution | Year |
 |--------|------------|------|
 | 🎓 Computer Science Major | Computer University, Mandalay | 2018 – 2021 |
+
+> ⚠️ *Did not complete due to COVID-19 and the political situation in Myanmar.*
+
  
 ### 📜 Certifications — KMD Education Center
  
@@ -210,7 +239,13 @@ class PhyoWaiKyaw extends FlutterDeveloper {
 | 🌐 Computer Basic | [View Certificate](https://drive.google.com/file/d/1wSZBLoJyD8scwHa2jsEygWDWr7w0gik8/view?usp=drive_link) |
 | 🧠 Problem Solving with Programming Concepts | [View Certificate](https://drive.google.com/file/d/1iPL-KTxHDLv7M53SiojzL6ZI1lC6YV_5/view?usp=drive_link) |
 | 📊 Microsoft PowerPoint (Advanced) | [View Certificate](https://drive.google.com/file/d/1uwMXSp6dSvQQam0VxmipEolAoGUR1mLa/view?usp=drive_link) |
+
+### 📜 Certification - University Of Computer (Mandalay)
+
+| Certificate | Link |
+|-------------|------|
 | 🌍 Web Development Foundation (Html,Css,Bootstrap,JavaScript) | [View Certificate](https://drive.google.com/file/d/1FQP0YdhVloXF-LOdfdG3KFmZNqGTbCyH/view?usp=drive_link) |
+
 
 ---
 
