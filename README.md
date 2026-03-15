@@ -165,23 +165,31 @@ class PhyoWaiKyaw extends FlutterDeveloper {
 | 👥 | **SocialHub** | Facebook-inspired social media UI | Flutter · Custom Widgets | [Code](https://github.com/phyowaikyaw-mobiledev/social_media_ui_clone) |
 
 ---
-
 ## 🏆 Award
- 
+
 <div align="center">
- 
-```
-╔══════════════════════════════════════════════════════════╗
-║  🥈  1st Runner Up — Oway Travel Hackathon 2020          ║
-║      Organized by Phandeeyar Foundation · Mandalay       ║
-║      🏅 $1,000 AWS Cloud Credits · 20+ competing teams   ║
-╚══════════════════════════════════════════════════════════╝
-```
-<img src="https://drive.google.com/file/d/19nUpVBpV8wcif-fV7xL3X4dCxFetoa8i/view?usp=drive_link" width="600" alt="Hackathon Award Ceremony" /> 
 
-<img src="https://drive.google.com/file/d/15jttQnjPVcdj17dWGEWyV933i4wo5E5p/view?usp=drive_link" width="600" alt="Team Heaven" /> 
+🥈 **1st Runner Up — Oway Travel Hackathon 2020**
+Organized by Phandeeyar Foundation · Mandalay
+🏅 $1,000 AWS Cloud Credits · 20+ competing teams
 
- 
+<br/>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./hackathon_award.jpg" width="380" alt="Award Ceremony" />
+      <br/>
+      <sub>🏅 Award Ceremony</sub>
+    </td>
+    <td align="center">
+      <img src="./hackathon_team.jpg" width="380" alt="Team Photo" />
+      <br/>
+      <sub>👥 Team Heaven</sub>
+    </td>
+  </tr>
+</table>
+
 </div>
  
 ---
