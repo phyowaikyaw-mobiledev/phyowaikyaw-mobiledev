@@ -294,35 +294,32 @@ Building software development community — creating technical content and shari
 
 ---
 
-## Contact
-
-**Email:** phyowalkyawdeveloper@gmail.com  
-**Phone:** +66-626-509163  
-
-**Portfolio:** https://flutter-developer-portfolio-phi.vercel.app  
-**LinkedIn:** https://www.linkedin.com/in/phyowaikyaw-dev  
-**GitHub:** https://github.com/phyowaikyaw-mobiledev  
-
 ---
 
-### Personal Motto
+<div align="center">
 
-*Crafting meaningful mobile experiences with precision, speed, and purpose.*
+## 📬 Let's Connect
 
----
+**Email**  
+phyowalkyawdeveloper@gmail.com
 
-*Building meaningful mobile experiences with clean code and purpose.*
-
-Open to **Flutter Developer roles, remote opportunities, and international collaboration.**
-
----
-
----
-
-### ✨ Personal Motto
-
-*"Crafting meaningful mobile experiences with precision, speed, and purpose."*
+**Phone**  
++66-626-509163
 
 <br/>
 
-Thanks for visiting! Feel free to reach out if you want to collaborate or build something impactful together. 🚀
+**Portfolio** · https://flutter-developer-portfolio-phi.vercel.app  
+**LinkedIn** · https://www.linkedin.com/in/phyowaikyaw-dev  
+**GitHub** · https://github.com/phyowaikyaw-mobiledev  
+
+<br/>
+
+### ✨ Personal Motto
+
+*Crafting meaningful mobile experiences with precision, speed, and purpose.*
+
+Building meaningful mobile experiences with clean code and purpose.
+
+Open to **Flutter Developer roles · Remote opportunities · International collaboration**
+
+</div>
