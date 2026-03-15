@@ -294,38 +294,30 @@ Building software development community — creating technical content and shari
 
 ---
 
-<table>
-  <tr>
-    <td colspan="2">
-      <sub>CONTACT</sub><br/>
-      <b>Let's build something together.</b>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <sub>EMAIL</sub><br/>
-      phyowalkyawdeveloper@gmail.com
-    </td>
-    <td>
-      <sub>PHONE</sub><br/>
-      +66-626-509163
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <sub>PORTFOLIO</sub> &nbsp;<a href="https://flutter-developer-portfolio-phi.vercel.app">vercel.app →</a>
-    </td>
-    <td>
-      <sub>LINKEDIN</sub> &nbsp;<a href="https://www.linkedin.com/in/phyowaikyaw-dev">phyowaikyaw-dev →</a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <sub>GITHUB</sub> &nbsp;<a href="https://github.com/phyowaikyaw-mobiledev">phyowaikyaw-mobiledev →</a>
-    </td>
-  </tr>
-  <tr>
-    <td><i>"Crafting meaningful mobile experiences with precision, speed, and purpose."</i></td>
-    <td align="right"><sub>OPEN TO REMOTE · RESPONDS IN 24H</sub></td>
-  </tr>
-</table>
+<div align="center">
+
+### Get In Touch
+
+| | |
+|---|---|
+| **Available for** | Remote Flutter roles · International collaboration |
+| **Email** | phyowalkyawdeveloper@gmail.com |
+| **Phone** | +66 626 509 163 · Chonburi, Thailand (GMT+7) |
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-flutter--developer--portfolio-0A0E27?style=flat-square&logo=vercel&logoColor=white)](https://flutter-developer-portfolio-phi.vercel.app)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-phyowaikyaw--dev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phyowaikyaw-dev)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-phyowaikyaw--mobiledev-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/phyowaikyaw-mobiledev)
+
+<br/>
+
+*"Crafting meaningful mobile experiences with precision, speed, and purpose."*
+
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Remote](https://img.shields.io/badge/-Remote-555?style=flat-square)
+![Open to Work](https://img.shields.io/badge/-Open%20to%20Work-2ea043?style=flat-square)
+
+</div>
