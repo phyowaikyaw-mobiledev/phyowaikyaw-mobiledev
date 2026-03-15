@@ -79,7 +79,7 @@ class PhyoWaiKyaw extends FlutterDeveloper {
 ## 💼 Work Experience
 
 ### 🏢 Flutter Developer — Root Studio Asia
-** Jan 2026 – Present** · Yangon, Myanmar (Remote)
+**Jan 2026 – Present** · Yangon, Myanmar (Remote)
 
 > Building production mobile applications used by real users
 
