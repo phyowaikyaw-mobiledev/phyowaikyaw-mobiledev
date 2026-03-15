@@ -168,10 +168,9 @@ class PhyoWaiKyaw extends FlutterDeveloper {
 ## 🏆 Award
 
 <div align="center">
-
-  🥈 **1st Runner Up — Oway Travel Hackathon 2020**
-Organized by Phandeeyar Foundation · Mandalay
-  🏅 $1,000 AWS Cloud Credits · 20+ competing teams
+🥈 **1st Runner Up — Oway Travel Hackathon 2020**
+  Organized by Phandeeyar Foundation · Mandalay
+              🏅 $1,000 AWS Cloud Credits · 20+ competing teams
 
 <br/>
 
