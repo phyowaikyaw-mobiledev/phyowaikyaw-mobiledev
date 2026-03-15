@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="Phyo Wai Kyaw Banner"/>
-
 # 👋 Hi, I'm Phyo Wai Kyaw
-
 ### 📱 Flutter Developer · Building Production-Ready Apps for Real Users
 ### 📍 Chonburi, Thailand · From Myanmar
 
+<img src="./banner.png" width="100%" alt="Phyo Wai Kyaw Banner"/>
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0A0E27?style=for-the-badge)](https://flutter-developer-portfolio-phi.vercel.app)
@@ -199,7 +197,7 @@ class PhyoWaiKyaw extends FlutterDeveloper {
 <br/>🏅 $1,000 AWS Cloud Credits · 20+ competing teams
 
 <br/>
-
+<br/>
 <table>
   <tr>
     <td align="center">
