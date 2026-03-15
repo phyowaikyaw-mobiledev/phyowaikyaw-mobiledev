@@ -294,32 +294,38 @@ Building software development community — creating technical content and shari
 
 ---
 
----
-
-<div align="center">
-
-## 📬 Let's Connect
-
-**Email**  
-phyowalkyawdeveloper@gmail.com
-
-**Phone**  
-+66-626-509163
-
-<br/>
-
-**Portfolio** · https://flutter-developer-portfolio-phi.vercel.app  
-**LinkedIn** · https://www.linkedin.com/in/phyowaikyaw-dev  
-**GitHub** · https://github.com/phyowaikyaw-mobiledev  
-
-<br/>
-
-### ✨ Personal Motto
-
-*Crafting meaningful mobile experiences with precision, speed, and purpose.*
-
-Building meaningful mobile experiences with clean code and purpose.
-
-Open to **Flutter Developer roles · Remote opportunities · International collaboration**
-
-</div>
+<table>
+  <tr>
+    <td colspan="2">
+      <sub>CONTACT</sub><br/>
+      <b>Let's build something together.</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <sub>EMAIL</sub><br/>
+      phyowalkyawdeveloper@gmail.com
+    </td>
+    <td>
+      <sub>PHONE</sub><br/>
+      +66-626-509163
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <sub>PORTFOLIO</sub> &nbsp;<a href="https://flutter-developer-portfolio-phi.vercel.app">vercel.app →</a>
+    </td>
+    <td>
+      <sub>LINKEDIN</sub> &nbsp;<a href="https://www.linkedin.com/in/phyowaikyaw-dev">phyowaikyaw-dev →</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <sub>GITHUB</sub> &nbsp;<a href="https://github.com/phyowaikyaw-mobiledev">phyowaikyaw-mobiledev →</a>
+    </td>
+  </tr>
+  <tr>
+    <td><i>"Crafting meaningful mobile experiences with precision, speed, and purpose."</i></td>
+    <td align="right"><sub>OPEN TO REMOTE · RESPONDS IN 24H</sub></td>
+  </tr>
+</table>
