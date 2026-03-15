@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Replace with your banner image after creating in Canva -->
-<!-- <img src="./banner.png" width="100%" alt="Phyo Wai Kyaw Banner"/> -->
+<img src="./banner.png" width="100%" alt="Phyo Wai Kyaw Banner"/>
 
 # 👋 Hi, I'm Phyo Wai Kyaw
 
