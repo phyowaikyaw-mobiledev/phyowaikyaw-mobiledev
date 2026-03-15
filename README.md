@@ -32,7 +32,7 @@ class PhyoWaiKyaw extends FlutterDeveloper {
     "🛍️ Pan Customer App",
   ];
 
-  final String achievement = "🏆 1st Place · Oway Travel Hackathon 2020";
+  final String achievement = "1st Runner Up · Oway Travel Hackathon 2020";
   final bool   openToWork  = true;
 
   final List<String> lookingFor = [
@@ -167,41 +167,43 @@ class PhyoWaiKyaw extends FlutterDeveloper {
 ---
 
 ## 🏆 Award
-
+ 
 <div align="center">
-
+ 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║  🥇  1st Place — Oway Travel Hackathon 2020              ║
+║  🥈  1st Runner Up — Oway Travel Hackathon 2020          ║
 ║      Organized by Phandeeyar Foundation · Mandalay       ║
 ║      🏅 $1,000 AWS Cloud Credits · 20+ competing teams   ║
 ╚══════════════════════════════════════════════════════════╝
 ```
+<img src="https://drive.google.com/file/d/19nUpVBpV8wcif-fV7xL3X4dCxFetoa8i/view?usp=drive_link" width="600" alt="Hackathon Award Ceremony" /> 
 
+<img src="https://drive.google.com/file/d/15jttQnjPVcdj17dWGEWyV933i4wo5E5p/view?usp=drive_link" width="600" alt="Team Heaven" /> 
+
+ 
 </div>
-
+ 
 ---
-
+ 
 ## 🎓 Education & Certifications
-
+ 
 ### 🏫 Education
-
+ 
 | Degree | Institution | Year |
 |--------|------------|------|
 | 🎓 Computer Science Major | Computer University, Mandalay | 2018 – 2021 |
-
+ 
 ### 📜 Certifications — KMD Education Center
-
+ 
 | Certificate | Link |
 |-------------|------|
-| 💻 Software Engineering | [View Certificate](#) |
-| 🔧 Practical A+ Hardware & Networking | [View Certificate](#) |
-| 🌐 Information Technology | [View Certificate](#) |
-| 🧠 Problem Solving with Programming | [View Certificate](#) |
-| 📊 Microsoft PowerPoint (Advanced) | [View Certificate](#) |
-| 🌍 Website Basic | [View Certificate](#) |
-
-> 🔗 Replace `(#)` with your Google Drive share links
+| 💻 Software Engineering - VB.Net | [View Certificate](https://drive.google.com/file/d/1RmtfiISi_GkkF6IfQLR9VYcB40HDQpOL/view?usp=drive_link) |
+| 🔧 Practical A+ Hardware & Networking | [View Certificate](https://drive.google.com/file/d/1wSZBLoJyD8scwHa2jsEygWDWr7w0gik8/view?usp=drive_link) |
+| 🌐 Computer Basic | [View Certificate](https://drive.google.com/file/d/1wSZBLoJyD8scwHa2jsEygWDWr7w0gik8/view?usp=drive_link) |
+| 🧠 Problem Solving with Programming Concepts | [View Certificate](https://drive.google.com/file/d/1iPL-KTxHDLv7M53SiojzL6ZI1lC6YV_5/view?usp=drive_link) |
+| 📊 Microsoft PowerPoint (Advanced) | [View Certificate](https://drive.google.com/file/d/1uwMXSp6dSvQQam0VxmipEolAoGUR1mLa/view?usp=drive_link) |
+| 🌍 Web Development Foundation (Html,Css,Bootstrap,JavaScript) | [View Certificate](https://drive.google.com/file/d/1FQP0YdhVloXF-LOdfdG3KFmZNqGTbCyH/view?usp=drive_link) |
 
 ---
 
@@ -227,7 +229,7 @@ class PhyoWaiKyaw extends FlutterDeveloper {
 ## 🌐 Community
 
 ### ✍️ Learners Gateway Initiative · 2024 – Present
-Building a Flutter development community — creating technical content, mentoring beginners, and sharing real-world experience.
+Building Software development community — creating technical content, sharing real-world experience.
 
 [![Learners Gateway](https://img.shields.io/badge/🌐_Visit_Community-4285F4?style=for-the-badge)](https://learners-gateway.web.app)
 
@@ -237,7 +239,7 @@ Building a Flutter development community — creating technical content, mentori
 
 ### 📬 Let's Connect
 
-**📧** phyowalkyawdeveloper@gmail.com &nbsp;|&nbsp; **📱** +66-8245-92006
+**📧** phyowalkyawdeveloper@gmail.com &nbsp;|&nbsp; **📱** +66-626-509163
 
 <br/>
 
