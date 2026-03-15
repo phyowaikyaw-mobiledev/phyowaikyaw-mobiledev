@@ -260,21 +260,14 @@ Building Software development community — creating technical content, sharing 
 **📧** phyowalkyawdeveloper@gmail.com &nbsp;|&nbsp; **📱** +66-626-509163
 
 <br/>
-
 *"Building meaningful mobile experiences with clean code and purpose."*
-
 **⚡ Usually responds within 24 hours · Open to Flutter Developer roles & remote work!**
-
 <br/>
  
 ---
  
 ✨ **Personal Motto**
- 
 *"Crafting meaningful mobile experiences with precision, speed, and purpose."*
- 
 <br/>
- 
 Thanks for visiting! Feel free to reach out if you want to collaborate or build something impactful together. 🚀
- 
 </div>
