@@ -65,8 +65,8 @@ class PhyoWaiKyaw extends FlutterDeveloper {
 | Category | Technologies |
 |----------|-------------|
 | **Mobile** | Flutter, Dart, Material Design 3, Responsive UI |
-| **State Management** | GetX, BLoC/Cubit, Provider, Riverpod |
-| **Backend & API** | Firebase, REST API, Dio, JSON |
+| **State Management** | GetX, BLoC/Cubit, Provider |
+| **Backend & API** | Firebase, REST API,Retrofit, Dio, JSON |
 | **Database** | Firestore, Hive, SQLite, Realm DB |
 | **Architecture** | Clean Architecture, MVC, Repository Pattern |
 | **Tools** | Git, Postman, Android Studio, VS Code, Figma |
