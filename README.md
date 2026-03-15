@@ -265,6 +265,10 @@ Building Software development community — creating technical content, sharing 
 
 **⚡ Usually responds within 24 hours · Open to Flutter Developer roles & remote work!**
 
+<br/>
+ 
+---
+ 
 ✨ **Personal Motto**
  
 *"Crafting meaningful mobile experiences with precision, speed, and purpose."*
@@ -272,5 +276,5 @@ Building Software development community — creating technical content, sharing 
 <br/>
  
 Thanks for visiting! Feel free to reach out if you want to collaborate or build something impactful together. 🚀
-
+ 
 </div>
