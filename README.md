@@ -1,10 +1,13 @@
 <div align="center">
 
+<!-- Replace with your banner image after creating in Canva -->
+<!-- <img src="./banner.png" width="100%" alt="Phyo Wai Kyaw Banner"/> -->
+
 # 👋 Hi, I'm Phyo Wai Kyaw
+
 ### 📱 Flutter Developer · Building Production-Ready Apps for Real Users
 ### 📍 Chonburi, Thailand · From Myanmar
 
-<img src="./banner.png" width="100%" alt="Phyo Wai Kyaw Banner"/>
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0A0E27?style=for-the-badge)](https://flutter-developer-portfolio-phi.vercel.app)
@@ -30,13 +33,9 @@ class PhyoWaiKyaw extends FlutterDeveloper {
     "🛍️ Pan Customer App",
   ];
 
-  final String achievement = "1st Runner Up · Oway Travel Hackathon 2020";
+  final String achievement = "🥈 1st Runner Up · Oway Travel Hackathon 2020";
   final bool   openToWork  = true;
-
-  final List<String> lookingFor = [
-  "Remote Flutter roles",
-  "International opportunities",
-]
+  
 }
 ```
 
@@ -66,8 +65,8 @@ class PhyoWaiKyaw extends FlutterDeveloper {
 | Category | Technologies |
 |----------|-------------|
 | **Mobile** | Flutter, Dart, Material Design 3, Responsive UI |
-| **State Management** | GetX, BLoC/Cubit, Provider |
-| **Backend & API** | Firebase, REST API,Retrofit, Dio, JSON |
+| **State Management** | GetX, BLoC/Cubit, Provider, Riverpod |
+| **Backend & API** | Firebase, REST API, Dio, JSON |
 | **Database** | Firestore, Hive, SQLite, Realm DB |
 | **Architecture** | Clean Architecture, MVC, Repository Pattern |
 | **Tools** | Git, Postman, Android Studio, VS Code, Figma |
@@ -79,7 +78,7 @@ class PhyoWaiKyaw extends FlutterDeveloper {
 ## 💼 Work Experience
 
 ### 🏢 Flutter Developer — Root Studio Asia
-**Jan 2026 – Present** · Yangon, Myanmar (Remote)
+**2025 – Present** · Yangon, Myanmar (Remote)
 
 > Building production mobile applications used by real users
 
@@ -92,7 +91,7 @@ class PhyoWaiKyaw extends FlutterDeveloper {
 ---
 
 ## 🚀 Production Apps
- 
+
 <table>
   <tr>
     <td align="center" width="50%">
@@ -112,10 +111,10 @@ class PhyoWaiKyaw extends FlutterDeveloper {
       <h3>⚙️ Phone King Plus — Admin</h3>
       <p>Admin panel for managing the loyalty platform — stores, rewards & users</p>
       <p>
-        <a href="https://play.google.com/store/apps/details?id=asia.rootstudio.phone_king_admin">
+        <a href="ADMIN_PLAY_STORE_LINK">
           <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" />
         </a>
-        <a href="https://apps.apple.com/th/app/phoneking-plus-admin/id6757606298">
+        <a href="ADMIN_APP_STORE_LINK">
           <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" />
         </a>
       </p>
@@ -153,38 +152,38 @@ class PhyoWaiKyaw extends FlutterDeveloper {
 ---
 
 ## 🗂️ Personal Projects
- 
+
 #### 🛒 E-Commerce App
 > Full-featured shopping platform with cart, Firebase Auth & real-time state management
- 
+
 `Flutter` `Firebase` `GetX` `Material Design 3` &nbsp;·&nbsp; [View Code →](https://github.com/phyowaikyaw-mobiledev/e_commerce)
- 
+
 ---
- 
+
 #### 🎓 EduHub LMS
 > Dual-role learning management system (Student & Teacher) with offline support
- 
+
 `Flutter` `BLoC/Cubit` `Hive` `Firebase` &nbsp;·&nbsp; [View Code →](https://github.com/phyowaikyaw-mobiledev/eduhub_lms)
- 
+
 ---
- 
+
 #### 📓 Pardon Diary
 > Google Keep-inspired note app with real-time updates & full-text search
- 
+
 `Flutter` `Realm DB` `Streams` `Material Design 3` &nbsp;·&nbsp; [View Code →](https://github.com/phyowaikyaw-mobiledev/pardon_diary-note)
- 
+
 ---
- 
+
 #### 🎵 Ying Music
 > Music streaming UI clone with hero animations & smooth playback controls
- 
+
 `Flutter` `Material Design 3` `Custom Animations` &nbsp;·&nbsp; [View Code →](https://github.com/phyowaikyaw-mobiledev/music_app)
- 
+
 ---
- 
+
 #### 👥 SocialHub
 > Facebook-inspired social media UI with news feed & notification system
- 
+
 `Flutter` `Custom Widgets` `Navigation` &nbsp;·&nbsp; [View Code →](https://github.com/phyowaikyaw-mobiledev/social_media_ui_clone)
 
 ---
@@ -192,62 +191,68 @@ class PhyoWaiKyaw extends FlutterDeveloper {
 ## 🏆 Award
 
 <div align="center">
-🥈 **1st Runner Up — Oway Travel Hackathon 2020**
-<br/>Organized by Phandeeyar Foundation · Mandalay
-<br/>🏅 $1,000 AWS Cloud Credits · 20+ competing teams
 
-<br/>
-<br/>
-<table>
-  <tr>
-    <td align="center">
-      <img src="./hackathon_award.jpg" width="380" alt="Award Ceremony" />
-      <br/>
-      <sub>🏅 Award Ceremony</sub>
-    </td>
-    <td align="center">
-      <img src="./hackathon_team.jpg" width="380" alt="Team Photo" />
-      <br/>
-      <sub>👥 Team Heaven</sub>
-    </td>
-  </tr>
-</table>
+```
+╔══════════════════════════════════════════════════════════╗
+║  🥈  1st Runner Up — Oway Travel Hackathon 2020          ║
+║      Organized by Phandeeyar Foundation · Mandalay       ║
+║      🏅 $1,000 AWS Cloud Credits · 20+ competing teams   ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+<!-- Add your award photo below after uploading to Google Drive -->
+<!-- <img src="YOUR_AWARD_PHOTO_LINK" width="600" alt="Hackathon Award Ceremony" /> -->
 
 </div>
- 
+
 ---
- 
+
 ## 🎓 Education & Certifications
- 
+
 ### 🏫 Education
- 
+
 | Degree | Institution | Year |
 |--------|------------|------|
 | 🎓 Computer Science Major | Computer University, Mandalay | 2018 – 2021 |
 
 > ⚠️ *Did not complete due to COVID-19 and the political situation in Myanmar.*
 
- 
 ### 📜 Certifications — KMD Education Center
- 
+
 | Certificate | Link |
 |-------------|------|
 | 💻 Software Engineering - VB.Net | [View Certificate](https://drive.google.com/file/d/1RmtfiISi_GkkF6IfQLR9VYcB40HDQpOL/view?usp=drive_link) |
 | 🔧 Practical A+ Hardware & Networking | [View Certificate](https://drive.google.com/file/d/1wSZBLoJyD8scwHa2jsEygWDWr7w0gik8/view?usp=drive_link) |
-| 🌐 Computer Basic | [View Certificate](https://drive.google.com/file/d/1wSZBLoJyD8scwHa2jsEygWDWr7w0gik8/view?usp=drive_link) |
+| 🖥️ Computer Basic | [View Certificate](https://drive.google.com/file/d/1wSZBLoJyD8scwHa2jsEygWDWr7w0gik8/view?usp=drive_link) |
 | 🧠 Problem Solving with Programming Concepts | [View Certificate](https://drive.google.com/file/d/1iPL-KTxHDLv7M53SiojzL6ZI1lC6YV_5/view?usp=drive_link) |
 | 📊 Microsoft PowerPoint (Advanced) | [View Certificate](https://drive.google.com/file/d/1uwMXSp6dSvQQam0VxmipEolAoGUR1mLa/view?usp=drive_link) |
+| 🌍 Web Development Foundation (HTML, CSS, Bootstrap, JavaScript) | [View Certificate](https://drive.google.com/file/d/1FQP0YdhVloXF-LOdfdG3KFmZNqGTbCyH/view?usp=drive_link) |
 
-### 📜 Certification - University Of Computer (Mandalay)
+---
 
-| Certificate | Link |
-|-------------|------|
-| 🌍 Web Development Foundation (Html,Css,Bootstrap,JavaScript) | [View Certificate](https://drive.google.com/file/d/1FQP0YdhVloXF-LOdfdG3KFmZNqGTbCyH/view?usp=drive_link) |
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=phyowaikyaw-mobiledev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phyowaikyaw-mobiledev&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=phyowaikyaw-mobiledev&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=phyowaikyaw-mobiledev&color=02569B&style=for-the-badge)
+
+</div>
+
+---
 
 ## 🌐 Community
 
 ### ✍️ Learners Gateway Initiative · 2024 – Present
-Building Software development community — creating technical content, sharing real-world experience.
+Building a Flutter development community — creating technical content, mentoring beginners, and sharing real-world experience.
 
 [![Learners Gateway](https://img.shields.io/badge/🌐_Visit_Community-4285F4?style=for-the-badge)](https://learners-gateway.web.app)
 
@@ -260,14 +265,14 @@ Building Software development community — creating technical content, sharing 
 **📧** phyowalkyawdeveloper@gmail.com &nbsp;|&nbsp; **📱** +66-626-509163
 
 <br/>
+
 *"Building meaningful mobile experiences with clean code and purpose."*
 
 **⚡ Usually responds within 24 hours · Open to Flutter Developer roles & remote work!**
+
 <br/>
-</div>
----
- 
-### ✨ **Personal Motto**
+
+✨ **Personal Motto**
 
 *"Crafting meaningful mobile experiences with precision, speed, and purpose."*
 
@@ -275,3 +280,4 @@ Building Software development community — creating technical content, sharing 
 
 Thanks for visiting! Feel free to reach out if you want to collaborate or build something impactful together. 🚀
 
+</div>
