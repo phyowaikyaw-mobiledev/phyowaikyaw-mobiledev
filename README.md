@@ -101,8 +101,8 @@ class PhyoWaiKyaw extends FlutterDeveloper {
       <h3>📱 Phone King Plus</h3>
       <p>Loyalty rewards platform — earn points, track rewards & redeem exclusive offers</p>
       <p>
-        <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" />
-        <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" />
+        <img src="https://apps.apple.com/th/app/phoneking-plus/id6757488887?style=flat-square&logo=google-play&logoColor=white" />
+        <img src="https://play.google.com/store/apps/details?id=asia.rootstudio.phone_king_customer?style=flat-square&logo=app-store&logoColor=white" />
       </p>
       <p><code>Flutter</code> <code>REST API</code> <code>UI Contributor</code></p>
     </td>
