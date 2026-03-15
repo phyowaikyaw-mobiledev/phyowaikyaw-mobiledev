@@ -34,7 +34,11 @@ class PhyoWaiKyaw extends FlutterDeveloper {
 
   final String achievement = "🏆 1st Place · Oway Travel Hackathon 2020";
   final bool   openToWork  = true;
-  
+
+  final List<String> lookingFor = [
+  "Remote Flutter roles",
+  "International opportunities",
+]
 }
 ```
 
