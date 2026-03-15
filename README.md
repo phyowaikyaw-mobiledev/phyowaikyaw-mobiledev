@@ -114,10 +114,10 @@ class PhyoWaiKyaw extends FlutterDeveloper {
       <h3>⚙️ Phone King Plus — Admin</h3>
       <p>Admin panel for managing the loyalty platform — stores, rewards & users</p>
       <p>
-        <a href="ADMIN_PLAY_STORE_LINK">
+        <a href="https://play.google.com/store/apps/details?id=asia.rootstudio.phone_king_admin">
           <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" />
         </a>
-        <a href="ADMIN_APP_STORE_LINK">
+        <a href="https://apps.apple.com/th/app/phoneking-plus-admin/id6757606298">
           <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" />
         </a>
       </p>
