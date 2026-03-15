@@ -281,7 +281,7 @@ Organized by Phandeeyar Foundation · Mandalay
 
 | Certificate | Link |
 |-------------|------|
-| 🌍 Web Development Foundation (Html,Css,Bootstrap,JavaScript) | [View Certificate](https://drive.google.com/file/d/1FQP0YdhVloXF-LOdfdG3KFmZNqGTbCyH/view?usp=drive_link) |
+| 🌍 Web Development Foundation | [View Certificate](https://drive.google.com/file/d/1FQP0YdhVloXF-LOdfdG3KFmZNqGTbCyH/view?usp=drive_link) |
 
 ---
 
