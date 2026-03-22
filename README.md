@@ -361,17 +361,6 @@ Organized by Phandeeyar Foundation · Mandalay
 |-------------|------|
 | 🌍 Web Development Foundation | [View Certificate](https://drive.google.com/file/d/1FQP0YdhVloXF-LOdfdG3KFmZNqGTbCyH/view?usp=drive_link) |
 
----
-
-## 🌐 Community
-
-### ✍️ Learners Gateway Initiative · 2024 – Present
-Building software development community — creating technical content and sharing real-world experience.
-
-[![Learners Gateway](https://img.shields.io/badge/🌐_Visit_Community-4285F4?style=for-the-badge)](https://learners-gateway.web.app)
-
----
-
 <div align="center">
 
 ### Get In Touch
