@@ -69,7 +69,7 @@ class PhyoWaiKyaw extends FlutterDeveloper {
 |----------|-------------|
 | **Mobile** | Flutter, Dart, Material Design 3, Responsive UI |
 | **State Management** | GetX, BLoC/Cubit, Provider |
-| **Backend & API** | Firebase, REST API, Retrofit, Dio, JSON |
+| **Backend & API** | Firebase, REST API, Retrofit, Dio, JSON, OpenAI |
 | **Database** | Firestore, Hive, SQLite, Realm DB |
 | **Architecture** | Clean Architecture, MVC, Repository Pattern |
 | **Tools** | Git, Postman, Android Studio, VS Code, Figma |
@@ -174,6 +174,22 @@ Cross-platform production application @ Root Studio Asia
 <tr>
 <td align="center" colspan="2">
 
+### 🔒 Secure Plus CCTV
+
+Dual-role CCTV business management app — Customer & Admin with Firebase, BLoC & bilingual (EN/MY)
+
+<img src="https://img.shields.io/badge/Launching_Soon-2EA043?style=flat-square"/>
+
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/phyowaikyaw-mobiledev/secure_plus_cctv)
+
+`Flutter` `Firebase` `BLoC` `GoRouter` `FCM` `l10n`
+
+</td>
+</tr>
+
+<tr>
+<td align="center" colspan="2">
+
 ### 🌐 Learners Gateway
 
 Live Flutter Web blog platform for tech education community
@@ -199,6 +215,34 @@ Live Flutter Web blog platform for tech education community
 
 ---
 
+#### 🍔 Food Monkey
+> Food delivery UI app with smooth animations and intuitive ordering experience
+
+`Flutter` `Material Design 3` `Custom UI` · [View Code →](https://github.com/phyowaikyaw-mobiledev/food_monkey)
+
+---
+
+#### 🛍️ Yin Store
+> Responsive dark-themed e-commerce app — iPhone, MacBook, Fashion & Lifestyle categories · [Live Demo](https://yin-store.vercel.app)
+
+`Flutter` `Flutter Web` `Material Design 3` · [View Code →](https://github.com/phyowaikyaw-mobiledev/yin_store)
+
+---
+
+#### 🤖 Resume Tailor AI
+> AI-powered resume optimizer using OpenAI GPT — ATS-friendly resume tailoring with PDF export
+
+`Flutter` `OpenAI API` `PDF Generation` · [View Code →](https://github.com/phyowaikyaw-mobiledev/resume_tailor_ai)
+
+---
+
+#### 🎵 Ying Music
+> Music streaming UI clone with hero animations & smooth playback controls
+
+`Flutter` `Material Design 3` `Custom Animations` · [View Code →](https://github.com/phyowaikyaw-mobiledev/music_app)
+
+---
+
 #### 🎓 EduHub LMS
 > Dual-role learning management system (Student & Teacher) with offline support
 
@@ -213,17 +257,51 @@ Live Flutter Web blog platform for tech education community
 
 ---
 
-#### 🎵 Ying Music
-> Music streaming UI clone with hero animations & smooth playback controls
-
-`Flutter` `Material Design 3` `Custom Animations` · [View Code →](https://github.com/phyowaikyaw-mobiledev/music_app)
-
----
-
 #### 👥 SocialHub
 > Facebook-inspired social media UI with news feed & notification system
 
 `Flutter` `Custom Widgets` `Navigation` · [View Code →](https://github.com/phyowaikyaw-mobiledev/social_media_ui_clone)
+
+---
+
+#### 🧩 Flutter Quiz App
+> Interactive quiz app with score tracking and dynamic question flow
+
+`Flutter` `setState` `Material Design` · [View Code →](https://github.com/phyowaikyaw-mobiledev/flutter_quizz_app)
+
+---
+
+#### 🏥 Healthcare Plus
+> Telemedicine app with Firebase Auth, dual-role (Patient & Doctor) dashboard & real-time Firestore
+
+`Flutter` `Firebase Auth` `Cloud Firestore` · [View Code →](https://github.com/phyowaikyaw-mobiledev/healthcare_plus)
+
+---
+
+#### 🎲 Roll Dice App
+> Simple dice roller app — beginner Flutter project with clean UI
+
+`Flutter` `setState` · [View Code →](https://github.com/phyowaikyaw-mobiledev/roll_dice_app)
+
+---
+
+## 📊 Languages & Code
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phyowaikyaw-mobiledev&layout=donut&theme=tokyonight&hide_border=true&langs_count=6)
+
+</div>
+
+<div align="center">
+
+| Language | Usage |
+|----------|-------|
+| ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | Primary — Flutter development |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Flutter Web build outputs |
+| ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | Flutter Web support files |
+
+</div>
 
 ---
 
