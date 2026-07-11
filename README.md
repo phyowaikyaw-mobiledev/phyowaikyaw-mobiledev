@@ -118,6 +118,14 @@ Building production Flutter applications used by real users across retail, healt
 - Built **PAN Aesthetic** — treatment booking, e-commerce, digital wallet (MMQR), loyalty program *(Launching Soon)*
 - Applied Clean Architecture & Repository Pattern; participated in code reviews and Agile sprint workflow
 
+<p align="center">
+  <sub>Verified employment at Root Studio Asia (Jul 2024 – Jul 2026)</sub>
+  <br/><br/>
+  <a href="https://drive.google.com/file/d/1yoVfMMUhsb6qJadS-KtTSL1UOaeqNUxN/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/View_Employment_Certificate-2EA043?style=flat-square&logo=google-drive&logoColor=white" alt="Employment Certificate"/>
+  </a>
+</p>
+
 ---
 
 ## Production Apps
@@ -127,6 +135,9 @@ Building production Flutter applications used by real users across retail, healt
 <table>
 <tr>
 <td align="center" width="50%">
+
+<img src="https://raw.githubusercontent.com/phyowaikyaw-mobiledev/flutter_developer_portfolio/main/assets/images/phoneking_icon.png" width="56" height="56" alt="Phone King Plus Customer"/>
+<br/><br/>
 
 ### Phone King Plus — Customer
 
@@ -145,6 +156,9 @@ Loyalty rewards platform — scan-to-pay, earn points, redeem rewards & track me
 
 </td>
 <td align="center" width="50%">
+
+<img src="https://raw.githubusercontent.com/phyowaikyaw-mobiledev/flutter_developer_portfolio/main/assets/images/phoneking_admin_icon.png" width="56" height="56" alt="Phone King Plus Admin"/>
+<br/><br/>
 
 ### Phone King Plus — Admin
 
@@ -167,6 +181,9 @@ Staff app for in-store loyalty — award points, process top-ups, confirm redemp
 <tr>
 <td align="center" width="50%">
 
+<img src="https://raw.githubusercontent.com/phyowaikyaw-mobiledev/flutter_developer_portfolio/main/assets/images/dr_zon.png" width="56" height="56" alt="DrZon Medical Service"/>
+<br/><br/>
+
 ### DrZon Medical Service
 
 Dual-role healthcare app — appointments, patient records, hospital directory & health content
@@ -185,6 +202,9 @@ Dual-role healthcare app — appointments, patient records, hospital directory &
 </td>
 <td align="center" width="50%">
 
+<img src="https://raw.githubusercontent.com/phyowaikyaw-mobiledev/flutter_developer_portfolio/main/assets/images/teexpress_icon.png" width="56" height="56" alt="TeeXpress"/>
+<br/><br/>
+
 ### TeeXpress
 
 Merchant delivery app — order creation, shipment tracking, payment ledger & exportable reports
@@ -199,6 +219,9 @@ Merchant delivery app — order creation, shipment tracking, payment ledger & ex
 <tr>
 <td align="center" width="50%">
 
+<img src="https://raw.githubusercontent.com/phyowaikyaw-mobiledev/flutter_developer_portfolio/main/assets/images/pan_icon.png" width="56" height="56" alt="PAN Aesthetic"/>
+<br/><br/>
+
 ### PAN Aesthetic
 
 Beauty & aesthetic clinic app — treatment booking, product store, digital wallet & loyalty rewards
@@ -209,6 +232,9 @@ Beauty & aesthetic clinic app — treatment booking, product store, digital wall
 
 </td>
 <td align="center" width="50%">
+
+<img src="https://raw.githubusercontent.com/phyowaikyaw-mobiledev/flutter_developer_portfolio/main/assets/images/vie_icon.png" width="56" height="56" alt="VIE Pharma"/>
+<br/><br/>
 
 ### VIE Pharma
 
@@ -223,6 +249,9 @@ Pharma distribution platform — Flutter monorepo with Admin & Promoter apps, MR
 
 <tr>
 <td align="center" colspan="2">
+
+<img src="https://raw.githubusercontent.com/phyowaikyaw-mobiledev/flutter_developer_portfolio/main/assets/images/secure_plus.jpg" width="56" height="56" alt="Secure Plus CCTV"/>
+<br/><br/>
 
 ### Secure Plus CCTV — Freelance
 
