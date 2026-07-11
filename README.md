@@ -1,14 +1,15 @@
 <div align="center">
 
-# 👋 Hi, I'm Phyo Wai Kyaw
-### 📱 Flutter Developer · Building Production-Ready Apps for Real Users
-### 📍 Chonburi, Thailand · From Myanmar
+# Hi, I'm Phyo Wai Kyaw
+
+### Flutter Developer · Production Apps Shipped to Play Store & App Store
+### Chonburi, Thailand · From Myanmar
 
 <img src="./banner.png" width="100%" alt="Phyo Wai Kyaw Banner"/>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0A0E27?style=for-the-badge)](https://flutter-developer-portfolio-phi.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0E27?style=for-the-badge&logo=vercel&logoColor=white)](https://flutter-developer-portfolio-phi.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phyowaikyaw-dev)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phyowalkyawdeveloper@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phyowaikyaw-mobiledev)
@@ -17,22 +18,31 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```dart
 class PhyoWaiKyaw extends FlutterDeveloper {
-  
-  final String company     = "Root Studio Asia";
-  final String location    = "Chonburi, Thailand 🇹🇭 · From Myanmar 🇲🇲";
-  final String focus       = "Production-grade mobile & web apps";
-  
-  final List<String> currentWork = [
-    "🏥 DrZon Healthcare App",
-    "🛍️ Pan Customer App",
+
+  final String company      = "Root Studio Asia";
+  final String period       = "Jul 2024 – Jul 2026 · Remote";
+  final String location     = "Chonburi, Thailand · From Myanmar";
+  final String focus        = "Production-grade mobile & web apps";
+
+  final int liveStoreApps   = 3;
+  final int productionApps  = 7;
+
+  final List<String> shipped = [
+    "Phone King Plus Customer  — Live",
+    "Phone King Plus Admin     — Live",
+    "DrZon Medical Service     — Live",
+    "TeeXpress                 — In Review",
+    "PAN Aesthetic             — Launching Soon",
+    "VIE Pharma                — Launching Soon",
   ];
 
-  final String achievement = "1st Runner Up · Oway Travel Hackathon 2020";
-  final bool   openToWork  = true;
+  final String freelance    = "Secure Plus CCTV — Freelance · Launching Soon";
+  final String achievement  = "1st Runner Up · Oway Travel Hackathon 2020";
+  final bool   openToWork   = true;
 
   final List<String> lookingFor = [
     "Remote Flutter roles",
@@ -43,130 +53,170 @@ class PhyoWaiKyaw extends FlutterDeveloper {
 
 ---
 
-## 🛠️ Tech Stack
+## At a Glance
+
+<div align="center">
+
+| **3** | **7** | **1,000+** |
+|:---:|:---:|:---:|
+| Live Store Releases | Production Apps | Active Users (Phone King Plus) |
+
+</div>
+
+---
+
+## Tech Stack
 
 <div align="center">
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Dio](https://img.shields.io/badge/Dio-02569B?style=for-the-badge&logo=dart&logoColor=white)
-![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logoColor=white)
 ![BLoC](https://img.shields.io/badge/BLoC-13B9FD?style=for-the-badge&logoColor=white)
 ![Provider](https://img.shields.io/badge/Provider-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Dio](https://img.shields.io/badge/Dio-02569B?style=for-the-badge&logo=dart&logoColor=white)
+![go_router](https://img.shields.io/badge/go__router-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white)
 
 </div>
 
 <details>
-<summary>📦 More Stack Details</summary>
+<summary>More Stack Details</summary>
 
 <br/>
 
 | Category | Technologies |
 |----------|-------------|
 | **Mobile** | Flutter, Dart, Material Design 3, Responsive UI |
-| **State Management** | GetX, BLoC/Cubit, Provider |
-| **Backend & API** | Firebase, REST API, Retrofit, Dio, JSON, OpenAI |
-| **Database** | Firestore, Hive, SQLite, Realm DB |
-| **Architecture** | Clean Architecture, MVC, Repository Pattern |
-| **Tools** | Git, Postman, Android Studio, VS Code, Figma |
+| **State Management** | BLoC/Cubit, Provider, GetX, Riverpod |
+| **API & Backend** | REST API, Dio, Retrofit, Firebase, FCM, Firestore |
+| **Architecture** | Clean Architecture, Layered Architecture, Repository Pattern, Monorepo |
+| **Database** | Firestore, Hive, SQLite, Realm DB, flutter_secure_storage |
+| **Routing & i18n** | go_router, Flutter Localizations (EN/Myanmar) |
+| **Deployment** | Fastlane, Google Play, App Store, Vercel, Firebase Hosting |
+| **Tools** | Git, Postman, Android Studio, VS Code, Figma, Cursor, Claude |
 
 </details>
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
-### 🏢 Flutter Developer — Root Studio Asia  
-**Jan 2026 – Present · Remote**
+### Flutter Developer — Root Studio Asia
+**Jul 2024 – Jul 2026 · Remote**
 
-Building **production mobile applications used by real users**.
+Building production Flutter applications used by real users across retail, healthcare, logistics, and pharma.
 
 **Key Contributions**
 
-- 🏥 Developing **DrZon Healthcare App**
-  - Implemented notification system
-  - Integrated REST APIs using **Dio**
-
-- 🛍️ Developing **Pan Customer App**
-  - Building cross-platform Flutter production application
-
-- 🏗️ Implementing **Clean Architecture with Repository Pattern**
-
-- 🌐 Supporting **l10n localization system**
-
-- 📱 Contributing UI components to **Phone King Plus** production app
-
-- 👥 Participating in **Agile development workflow and code reviews**
+- Shipped **3 live apps** to Google Play & App Store with Fastlane build/deploy automation
+- Built **Phone King Plus** loyalty ecosystem (Customer + Admin) — OTP auth, QR scan-to-pay, rewards redemption, staff reporting dashboard; **1,000+ active users across 4 countries**
+- Developed **DrZon Medical Service** — dual-role healthcare app with FCM push notifications, bilingual l10n, Dio REST API layer, and PDF medical records
+- Built **TeeXpress** merchant delivery app — batch orders, receivable/payable ledger, Excel & PDF export *(In Play Store Review)*
+- Architected **VIE Pharma** Flutter monorepo — shared design package, Admin & Promoter apps, MR field reporting *(Launching Soon)*
+- Built **PAN Aesthetic** — treatment booking, e-commerce, digital wallet (MMQR), loyalty program *(Launching Soon)*
+- Applied Clean Architecture & Repository Pattern; participated in code reviews and Agile sprint workflow
 
 ---
 
-## 🚀 Production Apps
+## Production Apps
+
+> Full case studies, screenshots & tech details on my [Portfolio](https://flutter-developer-portfolio-phi.vercel.app/?section=portfolio)
 
 <table>
 <tr>
 <td align="center" width="50%">
 
-### 📱 Phone King Plus — Customer
+### Phone King Plus — Customer
 
-Loyalty rewards platform — earn points, track rewards & redeem exclusive offers
+Loyalty rewards platform — scan-to-pay, earn points, redeem rewards & track membership tiers
 
 <a href="https://play.google.com/store/apps/details?id=asia.rootstudio.phone_king_customer">
 <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white"/>
 </a>
-
 <a href="https://apps.apple.com/th/app/phoneking-plus/id6757488887">
 <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white"/>
 </a>
 
-`Flutter` `REST API` `UI Contributor`
+<img src="https://img.shields.io/badge/Live-2EA043?style=flat-square"/>
+
+`Flutter` `Provider` `Dio` `QR Payments` `FCM` `l10n`
 
 </td>
-
 <td align="center" width="50%">
 
-### ⚙️ Phone King Plus — Admin
+### Phone King Plus — Admin
 
-Admin panel for managing the loyalty platform — stores, rewards & users
+Staff app for in-store loyalty — award points, process top-ups, confirm redemptions & view reports
 
 <a href="https://play.google.com/store/apps/details?id=asia.rootstudio.phone_king_admin">
 <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white"/>
 </a>
-
 <a href="https://apps.apple.com/th/app/phoneking-plus-admin/id6757606298">
 <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white"/>
 </a>
 
-`Flutter` `REST API` `UI Contributor`
+<img src="https://img.shields.io/badge/Live-2EA043?style=flat-square"/>
+
+`Flutter` `BLoC` `Dio` `QR` `Reporting` `l10n`
 
 </td>
 </tr>
 
 <tr>
-<td align="center">
+<td align="center" width="50%">
 
-### 🏥 DrZon Healthcare
+### DrZon Medical Service
 
-Healthcare app connecting patients with medical services in Myanmar & Thailand
+Dual-role healthcare app — appointments, patient records, hospital directory & health content
 
-<img src="https://img.shields.io/badge/Launching_Soon-2EA043?style=flat-square"/>
+<a href="https://play.google.com/store/apps/details?id=asia.rootstudio.drzon">
+<img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white"/>
+</a>
+<a href="https://apps.apple.com/th/app/drzon-medical-service/id6762826790">
+<img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white"/>
+</a>
 
-`Flutter` `Dio` `Clean Architecture` `l10n`
+<img src="https://img.shields.io/badge/Live-2EA043?style=flat-square"/>
+
+`Flutter` `Provider` `Dio` `FCM` `PDF Viewer` `l10n`
 
 </td>
+<td align="center" width="50%">
 
-<td align="center">
+### TeeXpress
 
-### 🛍️ Pan Customer App
+Merchant delivery app — order creation, shipment tracking, payment ledger & exportable reports
 
-Cross-platform production application @ Root Studio Asia
+<img src="https://img.shields.io/badge/In_Review-F59E0B?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Launching_Soon-2EA043?style=flat-square"/>
+`Flutter` `BLoC` `Dio` `Excel/PDF Export` `FCM`
 
-`Flutter` `REST API` `Clean Architecture`
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+### PAN Aesthetic
+
+Beauty & aesthetic clinic app — treatment booking, product store, digital wallet & loyalty rewards
+
+<img src="https://img.shields.io/badge/Launching_Soon-F59E0B?style=flat-square"/>
+
+`Flutter` `Provider` `Dio` `MMQR Wallet` `FCM` `l10n`
+
+</td>
+<td align="center" width="50%">
+
+### VIE Pharma
+
+Pharma distribution platform — Flutter monorepo with Admin & Promoter apps, MR reporting & commissions
+
+<img src="https://img.shields.io/badge/Launching_Soon-F59E0B?style=flat-square"/>
+
+`Flutter` `Monorepo` `Provider` `Dio` `Clean Architecture`
 
 </td>
 </tr>
@@ -174,31 +224,15 @@ Cross-platform production application @ Root Studio Asia
 <tr>
 <td align="center" colspan="2">
 
-### 🔒 Secure Plus CCTV
+### Secure Plus CCTV — Freelance
 
-Dual-role CCTV business management app — Customer & Admin with Firebase, BLoC & bilingual (EN/MY)
+Dual-role CCTV business app — service requests, maintenance tickets, quotes/invoices & owner dashboard
 
-<img src="https://img.shields.io/badge/Launching_Soon-2EA043?style=flat-square"/>
+<img src="https://img.shields.io/badge/Launching_Soon-F59E0B?style=flat-square"/>
 
 [![View Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/phyowaikyaw-mobiledev/secure_plus_cctv)
 
-`Flutter` `Firebase` `BLoC` `GoRouter` `FCM` `l10n`
-
-</td>
-</tr>
-
-<tr>
-<td align="center" colspan="2">
-
-### 🌐 Learners Gateway
-
-Live Flutter Web blog platform for tech education community
-
-<a href="https://learners-gateway.web.app">
-<img src="https://img.shields.io/badge/Live_Demo-4285F4?style=flat-square&logo=google-chrome&logoColor=white"/>
-</a>
-
-`Flutter Web` `Firebase` `Provider`
+`Flutter` `BLoC` `Firebase` `go_router` `OpenStreetMap` `l10n`
 
 </td>
 </tr>
@@ -206,86 +240,87 @@ Live Flutter Web blog platform for tech education community
 
 ---
 
-## 🗂️ Personal Projects
+## Personal Projects
 
-#### 🛒 E-Commerce App
-> Full-featured shopping platform with cart, Firebase Auth & real-time state management
+### Live & Featured
 
-`Flutter` `Firebase` `GetX` `Material Design 3` · [View Code →](https://github.com/phyowaikyaw-mobiledev/e_commerce)
+<table>
+<tr>
+<td width="50%">
+
+**Learners Gateway** — Live Flutter Web blog platform for tech education community
+
+<a href="https://learners-gateway.web.app"><img src="https://img.shields.io/badge/Live_Demo-4285F4?style=flat-square&logo=google-chrome&logoColor=white"/></a>
+<a href="https://github.com/phyowaikyaw-mobiledev/learners_gateway_website"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+`Flutter Web` `Firebase` `Provider`
+
+</td>
+<td width="50%">
+
+**Yin Store** — Responsive dark-themed e-commerce app (iPhone, MacBook, Fashion)
+
+<a href="https://yin-store.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-4285F4?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/phyowaikyaw-mobiledev/yin_store"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+`Flutter Web` `Material Design 3`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**StreamKit** — HLS live & VOD playback demo with video_player & Chewie
+
+<a href="https://github.com/phyowaikyaw-mobiledev/flutter-hls-streamkit-demo"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+`Flutter` `HLS` `video_player` `Chewie`
+
+</td>
+<td width="50%">
+
+**Resume Tailor AI** — AI-powered resume optimizer with OpenAI GPT & PDF export
+
+<a href="https://github.com/phyowaikyaw-mobiledev/resume_tailor_ai"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+`Flutter` `OpenAI API` `PDF Generation`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>Individual Projects</b></summary>
+
+<br/>
+
+| Project | Description | Stack | Link |
+|---------|-------------|-------|------|
+| **Smile Shop E-Commerce** | Full shopping platform with auth, cart & Firestore | Flutter, Firebase, GetX | [Code](https://github.com/phyowaikyaw-mobiledev/e_commerce) |
+| **Food Monkey** | Food delivery UI with smooth animations | Flutter, Material 3 | [Code](https://github.com/phyowaikyaw-mobiledev/food_monkey) |
+| **Ying Music** | Music streaming UI with hero animations | Flutter, Animations | [Code](https://github.com/phyowaikyaw-mobiledev/music_app) |
+| **EduHub LMS** | Dual-role LMS (Student & Teacher) with offline support | Flutter, BLoC, Hive, Firebase | [Code](https://github.com/phyowaikyaw-mobiledev/eduhub_lms) |
+| **Pardon Diary** | Google Keep-inspired notes with Realm DB & search | Flutter, Realm DB, Streams | [Code](https://github.com/phyowaikyaw-mobiledev/pardon_diary-note) |
+| **Healthcare Plus** | Telemedicine app with dual-role dashboard & Firestore | Flutter, Firebase Auth | [Code](https://github.com/phyowaikyaw-mobiledev/healthcare_plus) |
+
+</details>
+
+<details>
+<summary><b>Learning Archive</b></summary>
+
+<br/>
+
+| Project | Description | Stack | Link |
+|---------|-------------|-------|------|
+| **SocialHub** | Facebook-inspired social media UI clone | Flutter, Custom Widgets | [Code](https://github.com/phyowaikyaw-mobiledev/social_media_ui_clone) |
+| **Flutter Quiz App** | Interactive quiz with score tracking | Flutter, setState | [Code](https://github.com/phyowaikyaw-mobiledev/flutter_quizz_app) |
+| **Roll Dice App** | Beginner dice roller with clean UI | Flutter, setState | [Code](https://github.com/phyowaikyaw-mobiledev/roll_dice_app) |
+
+</details>
 
 ---
 
-#### 🍔 Food Monkey
-> Food delivery UI app with smooth animations and intuitive ordering experience
-
-`Flutter` `Material Design 3` `Custom UI` · [View Code →](https://github.com/phyowaikyaw-mobiledev/food_monkey)
-
----
-
-#### 🛍️ Yin Store
-> Responsive dark-themed e-commerce app — iPhone, MacBook, Fashion & Lifestyle categories · [Live Demo](https://yin-store.vercel.app)
-
-`Flutter` `Flutter Web` `Material Design 3` · [View Code →](https://github.com/phyowaikyaw-mobiledev/yin_store)
-
----
-
-#### 🤖 Resume Tailor AI
-> AI-powered resume optimizer using OpenAI GPT — ATS-friendly resume tailoring with PDF export
-
-`Flutter` `OpenAI API` `PDF Generation` · [View Code →](https://github.com/phyowaikyaw-mobiledev/resume_tailor_ai)
-
----
-
-#### 🎵 Ying Music
-> Music streaming UI clone with hero animations & smooth playback controls
-
-`Flutter` `Material Design 3` `Custom Animations` · [View Code →](https://github.com/phyowaikyaw-mobiledev/music_app)
-
----
-
-#### 🎓 EduHub LMS
-> Dual-role learning management system (Student & Teacher) with offline support
-
-`Flutter` `BLoC/Cubit` `Hive` `Firebase` · [View Code →](https://github.com/phyowaikyaw-mobiledev/eduhub_lms)
-
----
-
-#### 📓 Pardon Diary
-> Google Keep-inspired note app with real-time updates & full-text search
-
-`Flutter` `Realm DB` `Streams` `Material Design 3` · [View Code →](https://github.com/phyowaikyaw-mobiledev/pardon_diary-note)
-
----
-
-#### 👥 SocialHub
-> Facebook-inspired social media UI with news feed & notification system
-
-`Flutter` `Custom Widgets` `Navigation` · [View Code →](https://github.com/phyowaikyaw-mobiledev/social_media_ui_clone)
-
----
-
-#### 🧩 Flutter Quiz App
-> Interactive quiz app with score tracking and dynamic question flow
-
-`Flutter` `setState` `Material Design` · [View Code →](https://github.com/phyowaikyaw-mobiledev/flutter_quizz_app)
-
----
-
-#### 🏥 Healthcare Plus
-> Telemedicine app with Firebase Auth, dual-role (Patient & Doctor) dashboard & real-time Firestore
-
-`Flutter` `Firebase Auth` `Cloud Firestore` · [View Code →](https://github.com/phyowaikyaw-mobiledev/healthcare_plus)
-
----
-
-#### 🎲 Roll Dice App
-> Simple dice roller app — beginner Flutter project with clean UI
-
-`Flutter` `setState` · [View Code →](https://github.com/phyowaikyaw-mobiledev/roll_dice_app)
-
----
-
-## 📊 Languages & Code
+## Languages & Code
 
 <div align="center">
 
@@ -305,13 +340,13 @@ Live Flutter Web blog platform for tech education community
 
 ---
 
-## 🏆 Award
+## Award
 
 <div align="center">
 
-🥈 **1st Runner Up — Oway Travel Hackathon 2020**  
-Organized by Phandeeyar Foundation · Mandalay  
-🏅 $1,000 AWS Cloud Credits · 20+ competing teams
+**1st Runner Up — Oway Travel Hackathon 2020**
+Organized by Phandeeyar Foundation · Mandalay
+$1,000 AWS Cloud Credits · 20+ competing teams
 
 <br/>
 
@@ -320,13 +355,12 @@ Organized by Phandeeyar Foundation · Mandalay
 <td align="center">
 <img src="./hackathon_award.jpg" width="380"/>
 <br/>
-<sub>🏅 Award Ceremony</sub>
+<sub>Award Ceremony</sub>
 </td>
-
 <td align="center">
 <img src="./hackathon_team.jpg" width="380"/>
 <br/>
-<sub>👥 Team Heaven</sub>
+<sub>Team Heaven</sub>
 </td>
 </tr>
 </table>
@@ -335,40 +369,47 @@ Organized by Phandeeyar Foundation · Mandalay
 
 ---
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
-### 🏫 Education
+### Education
 
 | Degree | Institution | Year |
-|-------|------------|------|
-| 🎓 Computer Science Major | Computer University, Mandalay | 2018 – 2021 |
+|--------|-------------|------|
+| Computer Science Major | University of Computer, Mandalay | 2018 – 2020 |
 
-> ⚠️ Did not complete due to COVID-19 and the political situation in Myanmar.
+> Studies were paused due to COVID-19 and national circumstances in Myanmar.
 
-### 📜 Certifications — KMD Education Center
+### Ongoing Training
 
-| Certificate | Link |
-|-------------|------|
-| 💻 Software Engineering - VB.Net | [View Certificate](https://drive.google.com/file/d/1RmtfiISi_GkkF6IfQLR9VYcB40HDQpOL/view?usp=drive_link) |
-| 🔧 Practical A+ Hardware & Networking | [View Certificate](https://drive.google.com/file/d/1wSZBLoJyD8scwHa2jsEygWDWr7w0gik8/view?usp=drive_link) |
-| 🌐 Computer Basic | [View Certificate](https://drive.google.com/file/d/1wSZBLoJyD8scwHa2jsEygWDWr7w0gik8/view?usp=drive_link) |
-| 🧠 Problem Solving with Programming Concepts | [View Certificate](https://drive.google.com/file/d/1iPL-KTxHDLv7M53SiojzL6ZI1lC6YV_5/view?usp=drive_link) |
-| 📊 Microsoft PowerPoint (Advanced) | [View Certificate](https://drive.google.com/file/d/1uwMXSp6dSvQQam0VxmipEolAoGUR1mLa/view?usp=drive_link) |
+| Course | Provider | Schedule |
+|--------|----------|----------|
+| Flutter Advanced Class | Ruby Learner | Sat & Sun · Zoom |
 
-### 📜 Certification - University Of Computer (Mandalay)
+### Certifications — KMD Education Center
 
 | Certificate | Link |
 |-------------|------|
-| 🌍 Web Development Foundation | [View Certificate](https://drive.google.com/file/d/1FQP0YdhVloXF-LOdfdG3KFmZNqGTbCyH/view?usp=drive_link) |
+| Software Engineering Fundamentals | [View Certificate](https://drive.google.com/file/d/1RmtfiISi_GkkF6IfQLR9VYcB40HDQpOL/view?usp=drive_link) |
+| Programming Concepts & Computer Systems Fundamentals | [View Certificate](https://drive.google.com/file/d/1iPL-KTxHDLv7M53SiojzL6ZI1lC6YV_5/view?usp=drive_link) |
+| Computer Hardware & Networking Fundamentals | [View Certificate](https://drive.google.com/file/d/1wSZBLoJyD8scwHa2jsEygWDWr7w0gik8/view?usp=drive_link) |
+| Information Technology Fundamentals | [View Certificate](https://drive.google.com/file/d/1wSZBLoJyD8scwHa2jsEygWDWr7w0gik8/view?usp=drive_link) |
+| Microsoft PowerPoint & Presentation Skills | [View Certificate](https://drive.google.com/file/d/1uwMXSp6dSvQQam0VxmipEolAoGUR1mLa/view?usp=drive_link) |
+
+### Certification — University of Computer (Mandalay)
+
+| Certificate | Link |
+|-------------|------|
+| Web Development Foundation | [View Certificate](https://drive.google.com/file/d/1FQP0YdhVloXF-LOdfdG3KFmZNqGTbCyH/view?usp=drive_link) |
 
 ---
 
-## 🌐 Community
+## Community
 
-### ✍️ Learners Gateway Initiative · 2025 – Present
-Building software development community — creating technical content and sharing real-world experience.
+### Learners Gateway Initiative · 2025 – Present
 
-[![Learners Gateway](https://img.shields.io/badge/🌐_Visit_Community-4285F4?style=for-the-badge)](https://learners-gateway.web.app)
+Building a software development community — creating technical content and sharing real-world experience.
+
+[![Learners Gateway](https://img.shields.io/badge/Visit_Community-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://learners-gateway.web.app)
 
 ---
 
@@ -381,6 +422,7 @@ Building software development community — creating technical content and shari
 | **Available for** | Remote Flutter roles · International collaboration |
 | **Email** | phyowalkyawdeveloper@gmail.com |
 | **Phone** | +66 626 509 163 · Chonburi, Thailand (GMT+7) |
+| **CV** | [Download CV](https://drive.google.com/file/d/1ZeB1Dbe9t7l79XY_vOO1INeplqLwX-LO/view?usp=drive_link) |
 
 <br/>
 
