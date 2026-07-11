@@ -132,12 +132,11 @@ Building production Flutter applications used by real users across retail, healt
 
 > Full case studies, screenshots & tech details on my [Portfolio](https://flutter-developer-portfolio-phi.vercel.app/?section=portfolio)
 
-<table>
+<table cellpadding="12">
 <tr>
 <td align="center" width="50%">
 
-<img src="https://raw.githubusercontent.com/phyowaikyaw-mobiledev/flutter_developer_portfolio/main/assets/images/phoneking_icon.png" width="56" height="56" alt="Phone King Plus Customer"/>
-<br/><br/>
+<img src="https://raw.githubusercontent.com/phyowaikyaw-mobiledev/flutter_developer_portfolio/main/assets/images/phoneking_icon.png" width="56" height="56" alt="Phone King Plus Customer" style="display:block;margin:8px auto 6px"/>
 
 ### Phone King Plus — Customer
 
@@ -157,8 +156,7 @@ Loyalty rewards platform — scan-to-pay, earn points, redeem rewards & track me
 </td>
 <td align="center" width="50%">
 
-<img src="https://raw.githubusercontent.com/phyowaikyaw-mobiledev/flutter_developer_portfolio/main/assets/images/phoneking_admin_icon.png" width="56" height="56" alt="Phone King Plus Admin"/>
-<br/><br/>
+<img src="https://raw.githubusercontent.com/phyowaikyaw-mobiledev/flutter_developer_portfolio/main/assets/images/phoneking_admin_icon.png" width="56" height="56" alt="Phone King Plus Admin" style="display:block;margin:8px auto 6px"/>
 
 ### Phone King Plus — Admin
 
@@ -181,8 +179,7 @@ Staff app for in-store loyalty — award points, process top-ups, confirm redemp
 <tr>
 <td align="center" width="50%">
 
-<img src="https://raw.githubusercontent.com/phyowaikyaw-mobiledev/flutter_developer_portfolio/main/assets/images/dr_zon.png" width="56" height="56" alt="DrZon Medical Service"/>
-<br/><br/>
+<img src="https://raw.githubusercontent.com/phyowaikyaw-mobiledev/flutter_developer_portfolio/main/assets/images/dr_zon.png" width="56" height="56" alt="DrZon Medical Service" style="display:block;margin:8px auto 6px"/>
 
 ### DrZon Medical Service
 
@@ -202,8 +199,7 @@ Dual-role healthcare app — appointments, patient records, hospital directory &
 </td>
 <td align="center" width="50%">
 
-<img src="https://raw.githubusercontent.com/phyowaikyaw-mobiledev/flutter_developer_portfolio/main/assets/images/teexpress_icon.png" width="56" height="56" alt="TeeXpress"/>
-<br/><br/>
+<img src="https://raw.githubusercontent.com/phyowaikyaw-mobiledev/flutter_developer_portfolio/main/assets/images/teexpress_icon.png" width="56" height="56" alt="TeeXpress" style="display:block;margin:8px auto 6px"/>
 
 ### TeeXpress
 
@@ -219,8 +215,7 @@ Merchant delivery app — order creation, shipment tracking, payment ledger & ex
 <tr>
 <td align="center" width="50%">
 
-<img src="https://raw.githubusercontent.com/phyowaikyaw-mobiledev/flutter_developer_portfolio/main/assets/images/pan_icon.png" width="56" height="56" alt="PAN Aesthetic"/>
-<br/><br/>
+<img src="https://raw.githubusercontent.com/phyowaikyaw-mobiledev/flutter_developer_portfolio/main/assets/images/pan_icon.png" width="56" height="56" alt="PAN Aesthetic" style="display:block;margin:8px auto 6px"/>
 
 ### PAN Aesthetic
 
@@ -233,8 +228,7 @@ Beauty & aesthetic clinic app — treatment booking, product store, digital wall
 </td>
 <td align="center" width="50%">
 
-<img src="https://raw.githubusercontent.com/phyowaikyaw-mobiledev/flutter_developer_portfolio/main/assets/images/vie_icon.png" width="56" height="56" alt="VIE Pharma"/>
-<br/><br/>
+<img src="https://raw.githubusercontent.com/phyowaikyaw-mobiledev/flutter_developer_portfolio/main/assets/images/vie_icon.png" width="56" height="56" alt="VIE Pharma" style="display:block;margin:8px auto 6px"/>
 
 ### VIE Pharma
 
@@ -250,8 +244,7 @@ Pharma distribution platform — Flutter monorepo with Admin & Promoter apps, MR
 <tr>
 <td align="center" colspan="2">
 
-<img src="https://raw.githubusercontent.com/phyowaikyaw-mobiledev/flutter_developer_portfolio/main/assets/images/secure_plus.jpg" width="56" height="56" alt="Secure Plus CCTV"/>
-<br/><br/>
+<img src="https://raw.githubusercontent.com/phyowaikyaw-mobiledev/flutter_developer_portfolio/main/assets/images/secure_plus.jpg" width="56" height="56" alt="Secure Plus CCTV" style="display:block;margin:8px auto 6px"/>
 
 ### Secure Plus CCTV — Freelance
 
