@@ -9,9 +9,9 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0E27?style=for-the-badge&logo=vercel&logoColor=white)](https://flutter-developer-portfolio-phi.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0E27?style=for-the-badge&logo=vercel&logoColor=white)](https://phyowaikyaw-flutterdev.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phyowaikyaw-dev)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phyowalkyawdeveloper@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phyowaikyawdeveloper@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phyowaikyaw-mobiledev)
 
 </div>
@@ -130,7 +130,7 @@ Building production Flutter applications used by real users across retail, healt
 
 ## Production Apps
 
-> Full case studies, screenshots & tech details on my [Portfolio](https://flutter-developer-portfolio-phi.vercel.app/?section=portfolio)
+> Full case studies, screenshots & tech details on my [Portfolio](https://phyowaikyaw-flutterdev.vercel.app/?section=portfolio)
 
 <table cellpadding="12">
 <tr>
@@ -442,13 +442,13 @@ Building a software development community — creating technical content and sha
 | | |
 |---|---|
 | **Available for** | Remote Flutter roles · International collaboration |
-| **Email** | phyowalkyawdeveloper@gmail.com |
+| **Email** | phyowaikyawdeveloper@gmail.com |
 | **Phone** | +66 626 509 163 · Chonburi, Thailand (GMT+7) |
 | **CV** | [Download CV](https://drive.google.com/file/d/10nx8pO6Ac0UN3GxKmtz4m7AY07HXpO3F/view?usp=drive_link) |
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-flutter--developer--portfolio-0A0E27?style=flat-square&logo=vercel&logoColor=white)](https://flutter-developer-portfolio-phi.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-flutter--developer--portfolio-0A0E27?style=flat-square&logo=vercel&logoColor=white)](https://phyowaikyaw-flutterdev.vercel.app)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-phyowaikyaw--dev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phyowaikyaw-dev)
 &nbsp;
