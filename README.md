@@ -444,11 +444,11 @@ Building a software development community — creating technical content and sha
 | **Available for** | Remote Flutter roles · International collaboration |
 | **Email** | phyowalkyawdeveloper@gmail.com |
 | **Phone** | +66 626 509 163 · Chonburi, Thailand (GMT+7) |
-| **CV** | [Download CV](https://drive.google.com/file/d/1ZeB1Dbe9t7l79XY_vOO1INeplqLwX-LO/view?usp=drive_link) |
+| **CV** | [Download CV](https://drive.google.com/file/d/10nx8pO6Ac0UN3GxKmtz4m7AY07HXpO3F/view?usp=drive_link) |
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-flutter--developer--portfolio-0A0E27?style=flat-square&logo=vercel&logoColor=white)](https://phyowaikyaw-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-flutter--developer--portfolio-0A0E27?style=flat-square&logo=vercel&logoColor=white)](https://flutter-developer-portfolio-phi.vercel.app)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-phyowaikyaw--dev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phyowaikyaw-dev)
 &nbsp;
